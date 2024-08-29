@@ -5,8 +5,7 @@
 
 ## 提醒
 
-1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。<br/>
-   当然，您也可以自行创建 `Pull Request` 修改。
+1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
 2. 欢迎添加内容！请创建 `Pull Request` ，按照当前已有格式添加。
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
 
@@ -29,16 +28,16 @@
 | [ClassIsland](#-classisland) ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland) | `HelloWRC` |
 | [ElectronClassSchedule](#-electronclassschedule) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule) | `EnderWolf006` |
 | [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker) | `ZongziTEK` |
-| [ClassTools](#-classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
-| [StickyHomeworks](#-stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
-| [HomeworkBoard](#-homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
+| [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
+| [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
+| [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
 
 ### 辅助类软件
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT 触屏辅助](#-ppt触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
+| [PPT 触屏辅助](#ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
