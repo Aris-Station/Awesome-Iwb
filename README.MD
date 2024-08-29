@@ -108,14 +108,13 @@ Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI
 
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和PC端。
 
-
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Alan-CRL/Inkeys/">https://github.com/Alan-CRL/Inkeys/</a>
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">https://www.bilibili.com/video/BV1Tz421z72e/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
 
-### Inkways
+### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-red)
 ![Price](https://img.shields.io/badge/Price-Free-yellow)
