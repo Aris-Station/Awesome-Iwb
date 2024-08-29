@@ -119,7 +119,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ![Type](https://img.shields.io/badge/Type-Closed_Source-red)
 ![Price](https://img.shields.io/badge/Price-Free-yellow)
 
-幻灯片批注、多页画布编辑器和黑板
+完全契合 Windows 11 风格的，集笔记，黑板，展台，桌面/PPT 批注于一体的墨迹套件。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
