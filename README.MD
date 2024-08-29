@@ -29,10 +29,13 @@
 
 学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。
 
+<img src="github-icon.svg" width="16" height="16">
 <b>Github 链接</b>: <a href="https://github.com/WXRIW/Ink-Canvas/">https://github.com/WXRIW/Ink-Canvas/</a>
 <br/>
+<img src="github-icon.svg" width="16" height="16">
 <b>Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas/">https://github.com/InkCanvas/Ink-Canvas/</a>
 <br/>
+<img src="github-icon.svg" width="16" height="16">
 <b>开发者</b>: <a href="https://github.com/WXRIW/">WXRIW</a>
 
 ### <img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="28" height="28"/> Ink Canvas Artistry
