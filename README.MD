@@ -18,7 +18,7 @@
 | - | - |
 | [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas) | `WXRIW` |
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
-| [InkCanvasForClass]((#-inkcanvasforclass)) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
+| [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
 | [Inkways](#-inkways) ![Type](https://img.shields.io/badge/Type-Closed_Source-red) | `iNKORE-NET` |
 
