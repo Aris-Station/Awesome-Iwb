@@ -33,12 +33,13 @@
 | [StickyHomeworks](#-stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
 | [HomeworkBoard](#-homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
+| [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
 
 ### 辅助类软件
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT触屏辅助](#-ppt触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
+| [PPT触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
@@ -236,6 +237,21 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1xwW9eyEGu/">https://www.bilibili.com/video/BV1xwW9eyEGu/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/RinLit-233-shiroko/">RinLit-233-shiroko</a>
+
+### Education Clock
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+![Github Stars](https://img.shields.io/github/stars/Return-Log/Education-Clock)
+![Github Forks](https://img.shields.io/github/forks/Return-Log/Education-Clock)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/Return-Log/Education-Clock)
+![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+
+桌面时钟、课程表、天气预报、自动新闻联播、定时关机、邮件公告板
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Return-Log/Education-Clock/">https://github.com/Return-Log/Education-Clock/</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Return-Log/">Log</a>
 
 ## 辅助类软件
 
