@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
 
-## 一些值得注意的：
+## 提醒
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。<br/>
    当然，您也可以自行创建 `Pull Request` 修改。
@@ -38,11 +38,10 @@
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT触屏辅助](#-ppt触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
+| [PPT 触屏辅助](#-ppt触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
-
 
 ## 批注软件
 
@@ -106,11 +105,11 @@ Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI
 ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和PC端。
+Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Alan-CRL/Inkeys/">https://github.com/Alan-CRL/Inkeys/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">https://www.bilibili.com/video/BV1Tz421z72e/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">https://www.bilibili.com/video/BV1Tz421z72e/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
 
@@ -140,7 +139,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">https://github.com/ClassIsland/ClassIsland/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Lt421n7op/">https://www.bilibili.com/video/BV1Lt421n7op/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Lt421n7op/">https://www.bilibili.com/video/BV1Lt421n7op/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ClassIsland/">ClassIsland</a>
 <br/>
@@ -159,7 +158,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/EnderWolf006/ElectronClassSchedule/">https://github.com/EnderWolf006/ElectronClassSchedule/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Wm411k7n8/">https://www.bilibili.com/video/BV1Wm411k7n8/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Wm411k7n8/">https://www.bilibili.com/video/BV1Wm411k7n8/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/EnderWolf006/">EnderWolf006</a>
 
@@ -233,13 +232,13 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">https://github.com/RinLit-233-shiroko/Class-Widgets/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1xwW9eyEGu/">https://www.bilibili.com/video/BV1xwW9eyEGu/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1xwW9eyEGu/">https://www.bilibili.com/video/BV1xwW9eyEGu/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/RinLit-233-shiroko/">RinLit-233-shiroko</a>
 
 ## 辅助类软件
 
-### <img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  height="28"/> PPT触屏辅助(PowerPoint Touch Assist)
+### <img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  height="28"/> PPT 触屏辅助(PowerPoint Touch Assist)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/PowerPoint-Touch-Assist)
@@ -248,12 +247,12 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。<br/>
+PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。<br/>
 **这只是我作为新手的练习作。欢迎提供更多意见！**
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/">https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1G6Y7eLEA1/">https://www.bilibili.com/video/BV1G6Y7eLEA1/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1G6Y7eLEA1/">https://www.bilibili.com/video/BV1G6Y7eLEA1/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/RinLit-233-shiroko/">RinLit-233-shiroko</a>
 
@@ -269,7 +268,7 @@ PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击�
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SRInternet-Studio/Seewo-Custom_Start/">https://github.com/SRInternet-Studio/Seewo-Custom_Start/</a>
 <br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1ky42187JM/">https://www.bilibili.com/video/BV1ky42187JM/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1ky42187JM/">https://www.bilibili.com/video/BV1ky42187JM/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/SRInternet-Studio/">思锐工作室 SR-Studio</a>
 
@@ -282,10 +281,10 @@ PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击�
 
 > [!important]
 > **该软件没有固定的下载地址**
-> 
-> 由于该软件没有开源，且只提供了蓝奏云链接，容易失效，建议您前往他的B站视频评论区下载！
+>
+> 由于该软件没有开源，且只提供了蓝奏云链接，容易失效，建议您前往他的 bilibili 视频评论区下载！
 
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> B站 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1zeWneCEmh/">https://www.bilibili.com/video/BV1zeWneCEmh/</a>
+<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1zeWneCEmh/">https://www.bilibili.com/video/BV1zeWneCEmh/</a>
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://space.bilibili.com/404100570/">软硬工作室</a>
 
@@ -298,7 +297,7 @@ PPT触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击�
 ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前15分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
+展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">https://github.com/hello8693DSZ/dsz-exam-showboard/</a>
 <br/>
