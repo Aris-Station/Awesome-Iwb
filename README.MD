@@ -115,16 +115,16 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <br/>
 <img src="github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
 
-### Inkways
+### <img src="inkways-icon.png" width="28" height="28"/>  Inkways
 
 ![Type](https://img.shields.io/badge/Type-Closed_Source-red)
-![Price](https://img.shields.io/badge/Price-Free-yellow)
+![Price](https://img.shields.io/badge/Price-Free-green)
 
-幻灯片批注、多页画布编辑器和黑板
+完全契合 Windows 11 风格的，集笔记，黑板，展台，桌面/PPT 批注于一体的墨迹套件。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
-<img src="github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE-NET</a>
+<img src="inkore-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 
 ## 课表与桌面小工具
 
