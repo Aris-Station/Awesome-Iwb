@@ -146,6 +146,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+
 <br/>
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
