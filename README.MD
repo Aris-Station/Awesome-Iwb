@@ -130,6 +130,8 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
 
+<br/>
+
 ### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
 
 ![MDS](https://img.shields.io/badge/Minimal%20Design%20System-003E92)
@@ -146,6 +148,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+
 <br/>
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
