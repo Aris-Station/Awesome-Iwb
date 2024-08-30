@@ -130,22 +130,34 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
 
+### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
+
+![MDS](https://img.shields.io/badge/Minimals%20Design%20System-003E92)
+![Type](https://img.shields.io/badge/Type-Closed_Source-green)
+![Price](https://img.shields.io/badge/Price-Free-green)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+
+跨平台且易用的，集笔记，教育等场景于一体的完整版墨迹套件。
+
+<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 <br/>
 
-### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways
+### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
 
 ![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
-完全契合 Windows 11 风格的，集笔记，黑板，展台，桌面/PPT 批注于一体的墨迹套件。
+完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 <br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 主要开发者</b>: <a href="https://github.com/NotYoojun">Yoojun Zhou</a>
+
 
 ## 课表与桌面小工具
 
