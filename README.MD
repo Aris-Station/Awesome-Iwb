@@ -396,3 +396,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">hello8693DSZ/dsz-exam-showboard</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/hello8693DSZ/">Hello8693</a>
+
+## 开源许可
+
+遵守你妈的 WTFPL2 许可开源
