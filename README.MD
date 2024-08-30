@@ -134,8 +134,12 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ![MDS](https://img.shields.io/badge/Minimal%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-![Price](https://img.shields.io/badge/Price-Free-green)
+![Price](https://img.shields.io/badge/Price-Freemium-green)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+
+> [!note]
+>
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic!
 
 跨平台且易用的，集笔记，教育等场景于一体的完整版墨迹套件。
 
