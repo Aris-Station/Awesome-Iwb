@@ -89,6 +89,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 ### <img src="https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+![GNOME](https://img.shields.io/badge/GNOME-003E92)
 ![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/InkCanvasForClass/InkCanvasForClass)<br/>
@@ -133,20 +134,25 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways
 
-![Type](https://img.shields.io/badge/Type-Closed_Source-red)
+![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
+![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
 完全契合 Windows 11 风格的，集笔记，黑板，展台，桌面/PPT 批注于一体的墨迹套件。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 主要开发者</b>: <a href="https://github.com/NotYoojun">Yoojun Zhou</a>
 
 ## 课表与桌面小工具
 
 ### <img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="28" height="28"/> ClassIsland
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+![MDS](https://img.shields.io/badge/Material%20Design%20System-003E92)
 ![Github Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/ClassIsland/ClassIsland)<br/>
@@ -191,6 +197,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 ### <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="28" height="28"/> ZongziTEK 黑板贴
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Github Stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/STBBRD/ZongziTEK-Blackboard-Sticker)<br/>
