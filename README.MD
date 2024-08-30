@@ -21,7 +21,8 @@
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways](#inkways-wip) | `iNKORE Studios` |
+| [Inkways Vanilla](#-inkways-wip) | `iNKORE Studios` |
+| [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 
 ### 课表与桌面小工具
 
@@ -40,7 +41,7 @@
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT 触屏辅助](#ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
+| [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
