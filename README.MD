@@ -21,7 +21,7 @@
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways](#-inkways) | `iNKORE Studios` |
+| [Inkways](#inkways-wip) | `iNKORE Studios` |
 
 ### 课表与桌面小工具
 
@@ -132,7 +132,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
 
-![MDS](https://img.shields.io/badge/Minimals%20Design%20System-003E92)
+![MDS](https://img.shields.io/badge/Minimal%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
