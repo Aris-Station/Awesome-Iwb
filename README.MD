@@ -153,6 +153,8 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry项目二次开�
 
 💬 **Dubi906w 锐评**：不评了，算是 IC 系列未来的希望了吧，但是不推荐上生产环境或者在正式的教学环境下使用，总体来说，我不评了，自己体验了就知道如何。
 
+💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o
+
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvasForClass/InkCanvasForClass/">InkCanvasForClass/InkCanvasForClass</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a>
@@ -207,19 +209,21 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 > [!note]
 >
-> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic!
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
 
-跨平台且易用的，集笔记，教育等场景于一体的完整版墨迹套件。
+跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
 
 💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，我去当码农😄。
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 
 <br/>
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
+
+![banner](banner/inkways-classic.png)
 
 ![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
@@ -230,11 +234,17 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
-完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
+完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
 
-💬 **Dubi906w 锐评**：不如 IC 系列，可以尝试一下，UI设计比较好看，但是总体上看来似乎是一个未完成品，希望有生之年能看见 InkWays Vanilla 出来。
+---
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
+🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
+
+💬 **Dubi906w 锐评**：不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+
+💬 **Aris 锐评**：iNKORE! 做这个的时候我还不在工作室，转到 Web 之后现在也不怎么维护了，挖的坑还越来越多，u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
+
+<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 <br/>
