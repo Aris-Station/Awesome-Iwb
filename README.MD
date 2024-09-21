@@ -196,7 +196,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
 
-💬 **Dubi906w 锐评**：不如 IC 系列。
+💬 **Dubi906w 锐评**：不如 IC 系列，可以尝试一下，UI设计比较好看，但是总体上看来似乎是一个未完成品，希望有生之年能看见 InkWays Vanilla 出来。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
