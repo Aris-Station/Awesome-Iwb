@@ -1,4 +1,5 @@
-# 一体机和电子白板实用软件合集
+# Awesome-Iwb
+一体机和电子白板实用软件合集
 
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
@@ -10,6 +11,25 @@
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
 4. 不允许直接将二进制分发包包体托管到该仓库内。
 5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
+
+## 推广
+
+### iNKORE.UI.WPF.Modern
+
+![iUWM](https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/banners/UI.WPF.Modern_Main_1280w.png?raw=true)
+
+**iNKORE.UI.WPF.Modern 是一个开箱即用的 Fluent 2 设计风格的 WPF 控件库**
+
+![Github Stars](https://img.shields.io/github/stars/iNKORE-NET/UI.WPF.Modern?style=flat)
+![Github Forks](https://img.shields.io/github/forks/iNKORE-NET/UI.WPF.Modern?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/iNKORE-NET/UI.WPF.Modern)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/iNKORE-NET/UI.WPF.Modern)
+![Github Last Commit](https://img.shields.io/github/last-commit/iNKORE-NET/UI.WPF.Modern)
+![LICENSE](https://img.shields.io/badge/License-LGPL--2.1-red.svg)
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/iNKORE-NET/UI.WPF.Modern/">iNKORE-NET/UI.WPF.Modern</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET">iNKORE Studios</a>
 
 ## 目录
 
@@ -36,6 +56,7 @@
 | [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
 | [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
+| [灵动课表](#灵动课表) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form) | `DuguSand` |
 
 ### 辅助类软件
 
@@ -52,13 +73,16 @@
 
 ![Github Stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/WXRIW/Ink-Canvas?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/WXRIW/Ink-Canvas)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/WXRIW/Ink-Canvas)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%B7%B2%E6%AD%BB%EF%BC%8C%E6%9C%89%E4%BA%8B%E5%88%AB%E7%83%A7%E7%BA%B8-red)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/WXRIW/Ink-Canvas)
 ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20891913576-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
-学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。
+学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，主打的一个拿来主义）
+
+💬 **Dubi906w 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>
 <br/>
@@ -73,13 +97,16 @@
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![Github Stars](https://img.shields.io/github/stars/InkCanvas/Ink-Canvas-Artistry?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/InkCanvas/Ink-Canvas-Artistry?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/InkCanvas/Ink-Canvas-Artistry)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/InkCanvas/Ink-Canvas-Artistry)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%9A%82%E6%97%B6%E5%81%9C%E6%9B%B4-yellow)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/InkCanvas/Ink-Canvas-Artistry)
 ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20617707731-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
 
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。
+
+💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024年9月21日，希沃白板5和希沃系软件的Popup弹窗会出Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a>
 <br/>
@@ -93,13 +120,16 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 ![GNOME](https://img.shields.io/badge/GNOME-003E92)
 ![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/InkCanvasForClass/InkCanvasForClass?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/InkCanvasForClass/InkCanvasForClass)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/InkCanvasForClass/InkCanvasForClass)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/InkCanvasForClass/InkCanvasForClass)
 ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/Jhya1lgh8s)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
+
+💬 **Dubi906w 锐评**：不评了，算是 IC 系列未来的希望了吧，但是不推荐上生产环境或者在正式的教学环境下使用，总体来说，我不评了，自己体验了就知道如何。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvasForClass/InkCanvasForClass/">InkCanvasForClass/InkCanvasForClass</a>
 <br/>
@@ -117,13 +147,16 @@ Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI
 
 ![Github Stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/Alan-CRL/Inkeys)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/Alan-CRL/Inkeys)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%9A%82%E6%97%B6%E5%81%9C%E6%9B%B4-yellow)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys)
 ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20618720802-white?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6)
 
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
+
+💬 **Dubi906w 锐评**：开发者最近停更了，11月份才继续更新（截至2024年9月21日），用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Alan-CRL/Inkeys/">Alan-CRL/Inkeys</a>
 <br/>
@@ -146,6 +179,8 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 跨平台且易用的，集笔记，教育等场景于一体的完整版墨迹套件。
 
+💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，我去当码农😄。
+
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
@@ -161,6 +196,8 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
 
+💬 **Dubi906w 锐评**：不如 IC 系列。
+
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
@@ -175,13 +212,16 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ![MDS](https://img.shields.io/badge/Material%20Design%20System-003E92)
 ![Github Stars](https://img.shields.io/github/stars/ClassIsland/ClassIsland?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/ClassIsland/ClassIsland?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/ClassIsland/ClassIsland)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/ClassIsland/ClassIsland)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland)
 ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)
 ![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20958840932-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
+
+💬 **Dubi906w 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近1.5.0还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a>
 <br/>
@@ -197,7 +237,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ![Github Stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/EnderWolf006/ElectronClassSchedule)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/EnderWolf006/ElectronClassSchedule)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)
 ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
@@ -205,6 +246,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
 **软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
+
+💬 **Dubi906w 锐评**：ECS 也还行，我没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/EnderWolf006/ElectronClassSchedule/">EnderWolf006/ElectronClassSchedule</a>
 <br/>
@@ -220,13 +263,16 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 ![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Github Stars](https://img.shields.io/github/stars/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/STBBRD/ZongziTEK-Blackboard-Sticker?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/STBBRD/ZongziTEK-Blackboard-Sticker)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/STBBRD/ZongziTEK-Blackboard-Sticker)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/STBBRD/ZongziTEK-Blackboard-Sticker)
 ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201101582374-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。
+
+💬 **Dubi906w 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a>
 <br/>
@@ -238,12 +284,15 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 ![Github Stars](https://img.shields.io/github/stars/clansty/ClassTools?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/clansty/ClassTools?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/clansty/ClassTools)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/clansty/ClassTools)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%81%9C%E6%9B%B4-black)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/clansty/ClassTools)
 ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
+
+💬 **Dubi906w 锐评**：没用过，停更了，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/clansty/ClassTools/">clansty/ClassTools</a>
 <br/>
@@ -255,12 +304,15 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 ![Github Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/HelloWRC/StickyHomeworks)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/HelloWRC/StickyHomeworks)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks)
 ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
+
+💬 **Dubi906w 锐评**：好用，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/HelloWRC/StickyHomeworks/">HelloWRC/StickyHomeworks</a>
 <br/>
@@ -272,12 +324,15 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 
 ![Github Stars](https://img.shields.io/github/stars/EnderWolf006/HomeworkBoard?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/EnderWolf006/HomeworkBoard?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/EnderWolf006/HomeworkBoard)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/EnderWolf006/HomeworkBoard)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/EnderWolf006/HomeworkBoard)
 ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业
+
+💬 **Dubi906w 锐评**：没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/EnderWolf006/HomeworkBoard/">EnderWolf006/HomeworkBoard</a>
 <br/>
@@ -290,12 +345,15 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/Class-Widgets)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/Class-Widgets)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)
 ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。
+
+💬 **Dubi906w 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，比如没有天气功能，以及部分功能还不是太完善等，不过开发与更新速度也挺快，比较期待，但是目前来说不会正式在教学环境使用。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">RinLit-233-shiroko/Class-Widgets</a>
 <br/>
@@ -310,16 +368,39 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/Return-Log/Education-Clock?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/Return-Log/Education-Clock?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/Return-Log/Education-Clock)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/Return-Log/Education-Clock)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/Return-Log/Education-Clock)
 ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 桌面时钟、课程表、天气预报、自动新闻联播、定时关机、邮件公告板
 
+💬 **Dubi906w 锐评**：没用过，不评价。
+
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Return-Log/Education-Clock/">Return-Log/Education-Clock</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Return-Log/">Log</a>
+
+<br/>
+
+### 灵动课表
+
+![Github Stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat)
+![Github Forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/DuguSand/class_form)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%9F%BA%E6%9C%AC%E4%BC%BC%E4%BA%86-red)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/DuguSand/class_form)
+![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)
+![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+
+一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
+
+💬 **Dubi906w 锐评**：没用过，不评价，不过也算是 CI 的启蒙导师了。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
 
 ## 辅助类软件
 
@@ -328,13 +409,16 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/PowerPoint-Touch-Assist?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/RinLit-233-shiroko/PowerPoint-Touch-Assist?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/PowerPoint-Touch-Assist)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/RinLit-233-shiroko/PowerPoint-Touch-Assist)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%8F%AA%E6%98%AF%E7%BB%83%E6%89%8B%E7%9A%84%EF%BC%8C%E5%9F%BA%E6%9C%AC%E4%BC%BC%E4%BA%86-red)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/RinLit-233-shiroko/PowerPoint-Touch-Assist)
 ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。<br/>
 **这只是我作为新手的练习作。欢迎提供更多意见！**
+
+💬 **Dubi906w 锐评**：没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/">RinLit-233-shiroko/PowerPoint-Touch-Assist</a>
 <br/>
@@ -348,12 +432,15 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 ![Github Stars](https://img.shields.io/github/stars/SRInternet-Studio/Seewo-Custom_Start?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/SRInternet-Studio/Seewo-Custom_Start?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/SRInternet-Studio/Seewo-Custom_Start)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/SRInternet-Studio/Seewo-Custom_Start)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/SRInternet-Studio/Seewo-Custom_Start)
 ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start)
 ![LICENSE](https://img.shields.io/badge/License-Apache--2.0-red.svg)
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 希沃白板 系列量身定做，其他程序也可以使用！🥳
+
+💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的启动Banner变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SRInternet-Studio/Seewo-Custom_Start/">SRInternet-Studio/Seewo-Custom_Start</a>
 <br/>
@@ -366,15 +453,21 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 ### 全能班辅
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-![Languages Top](https://img.shields.io/badge/visual_basic_6.0-blue)
+![Github Stars](https://img.shields.io/github/stars/XeonMEMZ/qnbf5?style=flat)
+![Github Forks](https://img.shields.io/github/forks/XeonMEMZ/qnbf5?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/XeonMEMZ/qnbf5)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/XeonMEMZ/qnbf5)
+![Github Last Commit](https://img.shields.io/github/last-commit/XeonMEMZ/qnbf5)
 
 显示今天的值日生，小工具，随机点名功能，展示自定义课表。
 
-> [!important]
-> **该软件没有固定的下载地址**
->
-> 由于该软件没有开源，且只提供了蓝奏云链接，容易失效，建议您前往他的 bilibili 视频评论区下载！
+💬 **Dubi906w 锐评**：没用过，不评价，不过看到这一堆的 VB 写的，应该没有多少人会去Fork过后改。
 
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/XeonMEMZ/qnbf5/">XeonMEMZ/qnbf5</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/XeonMEMZ/qnbf4/">XeonMEMZ/qnbf4</a>
+<br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1zeWneCEmh/">https://www.bilibili.com/video/BV1zeWneCEmh/</a>
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://space.bilibili.com/404100570/">软硬工作室</a>
@@ -386,12 +479,15 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/hello8693DSZ/dsz-exam-showboard?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/hello8693DSZ/dsz-exam-showboard)<br/>
+![GitHub Issues](https://img.shields.io/github/issues/hello8693DSZ/dsz-exam-showboard)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/hello8693DSZ/dsz-exam-showboard)
 ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
+
+💬 **Dubi906w 锐评**：没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">hello8693DSZ/dsz-exam-showboard</a>
 <br/>
