@@ -81,7 +81,13 @@
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20891913576-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
+Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
+
 学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，主打的一个拿来主义）
+
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `形状识别`
 
 💬 **Dubi906w 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
 
@@ -109,6 +115,10 @@
 
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。
 
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
+
 💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024年9月21日，希沃白板5和希沃系软件的Popup弹窗会出Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a>
@@ -133,6 +143,12 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
+
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
+
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`
 
 💬 **Dubi906w 锐评**：不评了，算是 IC 系列未来的希望了吧，但是不推荐上生产环境或者在正式的教学环境下使用，总体来说，我不评了，自己体验了就知道如何。
 
@@ -162,6 +178,10 @@ Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20618720802-white?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6)
 
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
+
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `手抖修正`, `多指书写`
 
 💬 **Dubi906w 锐评**：开发者最近停更了，11月份才继续更新（截至2024年9月21日），用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。
 
