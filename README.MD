@@ -41,7 +41,7 @@
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/InkCanvasForClass) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways Vanilla](#-inkways-wip) | `iNKORE Studios` |
+| [Inkways](#-inkways-wip) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 
 ### 课表与桌面小工具
@@ -53,6 +53,7 @@
 | [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker) | `ZongziTEK` |
 | [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
 | [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
+| [StickyAttention](#stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention) | `jizilin6732` |
 | [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
 | [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
@@ -116,6 +117,8 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 ### <img src="https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
 
+![banner](https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc-github-illustrations.png)
+
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![GNOME](https://img.shields.io/badge/GNOME-003E92)
 ![Github Stars](https://img.shields.io/github/stars/InkCanvasForClass/InkCanvasForClass?style=flat)
@@ -143,6 +146,8 @@ Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI
 
 ### <img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="28" height="28"/> 智绘教 Inkeys
 
+![banner](https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/cover2.png)
+
 > 原名: `Intelligent-Drawing-Teaching`（IDT），中文: 智绘教
 
 ![Github Stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat)
@@ -168,10 +173,14 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
 
-![MDS](https://img.shields.io/badge/Minimal%20Design%20System-003E92)
+![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Freemium-green)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+![Platforms](https://img.shields.io/badge/win%20%7C%20mac%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
+[![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
 > [!note]
 >
@@ -189,9 +198,13 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
 
-![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
+![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
 ![Price](https://img.shields.io/badge/Price-Free-green)
+![Platforms](https://img.shields.io/badge/win-green?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
 完全契合 Windows 11 风格的，轻量并适用于教学场景的墨迹套件。
@@ -207,6 +220,8 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ## 课表与桌面小工具
 
 ### <img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="28" height="28"/> ClassIsland
+
+![banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![MDS](https://img.shields.io/badge/Material%20Design%20System-003E92)
@@ -234,6 +249,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="28" height="28"/> ElectronClassSchedule
+
+![banner](https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png)
 
 ![Github Stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat)
@@ -320,6 +337,26 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 
 <br/>
 
+### <img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="28" height="28"/> StickyAttention
+
+![Github Stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat)
+![Github Forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/HelloWRC/StickyHomeworks)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks)
+![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+
+StickyAttention 是一款适用于Windows 系统教室一体机的作业显示工具，基于 HelloWRC 大佬的 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业等信息，后续将添加更多新内容，不过目前截至 2024 年 10 月 1 日似乎都没添加什么新功能。
+
+💬 **Dubi906w 锐评**：只能说先等等看吧，没用过不评价。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/jizilin6732/">jizilin6732</a>
+
+<br/>
+
 ### HomeworkBoard
 
 ![Github Stars](https://img.shields.io/github/stars/EnderWolf006/HomeworkBoard?style=flat)
@@ -341,6 +378,8 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 <br/>
 
 ### <img src="https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img/Logo.png" width="28" height="28"/> Class Widgets
+
+![banner](https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img%2Fpreview.png)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat)
