@@ -95,6 +95,8 @@
 
 ### <img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="28" height="28"/> Ink Canvas Artistry
 
+![banner](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Screenshot1.png)
+
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![Github Stars](https://img.shields.io/github/stars/InkCanvas/Ink-Canvas-Artistry?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/InkCanvas/Ink-Canvas-Artistry?style=flat)
@@ -239,6 +241,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 💬 **Dubi906w 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近1.5.0还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> .NET 6 兼容版仓库</b>: <a href="https://github.com/ClassIsland/ClassIsland-net6/">ClassIsland/ClassIsland-net6</a>
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Lt421n7op/">https://www.bilibili.com/video/BV1Lt421n7op/</a>
 <br/>
