@@ -51,6 +51,7 @@
 | [ClassIsland](#-classisland) ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland) | `HelloWRC` |
 | [ElectronClassSchedule](#-electronclassschedule) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule) | `EnderWolf006` |
 | [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker) | `ZongziTEK` |
+| [MoonCakeTEK 黑板贴](#-mooncaketek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/kriastans/MoonCakeTEK-Blackboard-Sticker) | `Doubx690i` |
 | [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
 | [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
 | [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention) | `jizilin6732` |
@@ -318,6 +319,29 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/STBBRD/">ZongziTEK</a>
+
+<br/>
+
+### <img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/raw/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" width="28" height="28"/> MoonCakeTEK 黑板贴
+
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+![FDS](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
+![Github Stars](https://img.shields.io/github/stars/kriastans/MoonCakeTEK-Blackboard-Sticker?style=flat)
+![Github Forks](https://img.shields.io/github/forks/kriastans/MoonCakeTEK-Blackboard-Sticker?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/kriastans/MoonCakeTEK-Blackboard-Sticker)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-green)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/kriastans/MoonCakeTEK-Blackboard-Sticker?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)
+![Github Last Commit](https://img.shields.io/github/last-commit/kriastans/MoonCakeTEK-Blackboard-Sticker)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
+
+用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。基于 ZongziTEK 黑板贴修改，添加了更多功能，UI更加优美易用，同时修复了部分Bug。
+
+💬 **Dubi906w 锐评**：逗比倾情钜献，我应该不能自己评价自己的项目吧（喜
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/">kriastans/MoonCakeTEK-Blackboard-Sticker</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a>
 
 <br/>
 
