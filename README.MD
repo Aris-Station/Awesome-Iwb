@@ -213,6 +213,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
 
+<<<<<<< Updated upstream
 💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，我去当码农😄。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
