@@ -120,7 +120,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
 
-💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024年9月21日，希沃白板5和希沃系软件的Popup弹窗会出Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
+💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a>
 <br/>
@@ -349,6 +349,8 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。基于 ZongziTEK 黑板贴修改，添加了更多功能，UI更加优美易用，同时修复了部分Bug。
 
 💬 **Dubi906w 锐评**：逗比倾情钜献，我应该不能自己评价自己的项目吧（喜
+
+💬**Aris 锐评**：还没出来，先不评，出来了再 @ 我
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/">kriastans/MoonCakeTEK-Blackboard-Sticker</a>
 <br/>
