@@ -12,25 +12,6 @@
 4. 不允许直接将二进制分发包包体托管到该仓库内。
 5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
 
-## 推广
-
-### iNKORE.UI.WPF.Modern
-
-![iUWM](https://github.com/iNKORE-NET/UI.WPF.Modern/blob/main/assets/images/banners/UI.WPF.Modern_Main_1280w.png?raw=true)
-
-**iNKORE.UI.WPF.Modern 是一个开箱即用的 Fluent 2 设计风格的 WPF 控件库**
-
-![Github Stars](https://img.shields.io/github/stars/iNKORE-NET/UI.WPF.Modern?style=flat)
-![Github Forks](https://img.shields.io/github/forks/iNKORE-NET/UI.WPF.Modern?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/iNKORE-NET/UI.WPF.Modern)<br/>
-![Github Languages Top](https://img.shields.io/github/languages/top/iNKORE-NET/UI.WPF.Modern)
-![Github Last Commit](https://img.shields.io/github/last-commit/iNKORE-NET/UI.WPF.Modern)
-![LICENSE](https://img.shields.io/badge/License-LGPL--2.1-red.svg)
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/iNKORE-NET/UI.WPF.Modern/">iNKORE-NET/UI.WPF.Modern</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET">iNKORE Studios</a>
-
 ## 目录
 
 ### 批注软件
