@@ -127,23 +127,19 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 <br/>
 
-### ~~<img src="https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass~~ **（已废弃）**
-
-~~Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。~~
-
-~~InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。~~
-
-~~---~~
-
-~~🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`~~
-
-~~💬 **Dubi906w 锐评**：不评了，算是 IC 系列未来的希望了吧，但是不推荐上生产环境或者在正式的教学环境下使用，总体来说，我不评了，自己体验了就知道如何。~~
-
-~~💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o~~
-
-**铭记遗产及遗产背后的故事**
-
-<br/>
+> ### ~~<img src="https://github.com/InkCanvasForClass/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass~~ **（已废弃）**
+>
+>~~Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。~~
+>
+>~~InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。~~
+>
+>---
+>
+>~~🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`~~
+>
+>~~💬 **Dubi906w 锐评**：不评了，算是 IC 系列未来的希望了吧，但是不推荐上生产环境或者在正式的教学环境下使用，总体来说，我不评了，自己体验了就知道如何。~~
+>
+>~~💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o~~
 
 ### <img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="28" height="28"/> 智绘教 Inkeys
 
@@ -312,15 +308,13 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 <br/>
 
-### ~~<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/raw/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" width="28" height="28"/> MoonCakeTEK 黑板贴~~ **（已废弃）**
-
-~~用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。基于 ZongziTEK 黑板贴修改，添加了更多功能，UI 更加优美易用，同时修复了部分 Bug。~~
-
-~~💬 **Dubi906w 锐评**：逗比倾情钜献，我应该不能自己评价自己的项目吧（喜~~
-
-~~💬 **Aris 锐评**：还没出来，先不评，出来了再 @ 我~~
-
-<br/>
+> ###  ~~<img src="https://github.com/kriastans/MoonCakeTEK-Blackboard-Sticker/raw/master/MoonCakeTEK_Blackboard_Sticker/mbs.png" width="28" height="28"/> MoonCakeTEK 黑板贴~~ **（已废弃）**
+>
+>~~用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。基于 ZongziTEK 黑板贴修改，添加了更多功能，UI 更加优美易用，同时修复了部分 Bug。~~
+>
+>~~💬 **Dubi906w 锐评**：逗比倾情钜献，我应该不能自己评价自己的项目吧（喜~~
+>
+>~~💬 **Aris 锐评**：还没出来，先不评，出来了再 @ 我~~
 
 ### ClassTools
 
