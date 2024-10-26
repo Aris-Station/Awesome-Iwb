@@ -512,26 +512,27 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://space.bilibili.com/404100570/">软硬工作室</a>
 
-<br/>
-
-### <img src="images/kaoshikanban-icon.svg" height="28"/> 考试看板
+### <img src="images/kaoshikanban-icon.svg" height="28"/> 考试看板Next
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-![Github Stars](https://img.shields.io/github/stars/hello8693DSZ/dsz-exam-showboard?style=flat)
-![Github Forks](https://img.shields.io/github/forks/hello8693DSZ/dsz-exam-showboard?style=flat)
-![GitHub Issues](https://img.shields.io/github/issues/hello8693DSZ/dsz-exam-showboard)
-![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
-![Github Languages Top](https://img.shields.io/github/languages/top/hello8693DSZ/dsz-exam-showboard?logo=typescript&logoColor=white)
-![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+[![stars](https://img.shields.io/github/stars/MKStoler4096/dsz-exam-showboard-next?label=Stars)](https://github.com/MKStoler4096/dsz-exam-showboard-next/stargazers)
+[![forks](https://img.shields.io/github/forks/MKStoler4096/dsz-exam-showboard-next?label=Forks)](https://github.com/MKStoler4096/dsz-exam-showboard-next/forks)
+[![Watchers](https://img.shields.io/github/watchers/MKStoler4096/dsz-exam-showboard-next?style=social)](https://github.com/MKStoler4096/dsz-exam-showboard-next/watchers)
+[![Downloads](https://img.shields.io/github/downloads/MKStoler4096/dsz-exam-showboard-next/total?style=social&label=Downloads&logo=github)](https://github.com/MKStoler4096/dsz-exam-showboard-next/releases)
+[![GitHub Issues](https://img.shields.io/github/issues-search/MKStoler4096/dsz-exam-showboard-next?query=is%3Aopen&style=social-square&logo=github&label=Issues&color=%233fb950)](https://github.com/MKStoler4096/dsz-exam-showboard-next/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/MKStoler4096/dsz-exam-showboard-next?style=flat&logo=Github&label=Discussions)](https://github.com/MKStoler4096/dsz-exam-showboard-next/discussions)
+[![Created At](https://img.shields.io/github/created-at/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
+[![Github Last Commit](https://img.shields.io/github/last-commit/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next/commits/master)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
+[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg 'LICENSE')](LICENSE)
+[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ&logoColor=white)](https://qm.qq.com/q/zDiEipHsaI)
 
 展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
-💬 **Dubi906w 锐评**：没用过，不评价。
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/hello8693DSZ/dsz-exam-showboard/">hello8693DSZ/dsz-exam-showboard</a>
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a>
 <br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/hello8693DSZ/">Hello8693</a>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ProjectCampus-CH/">ProjectCampus-CH</a>
 
 ## 开源许可
 
