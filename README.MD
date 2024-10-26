@@ -48,7 +48,7 @@
 | [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
-| [考试看板](#-考试看板) ![Github Last Commit](https://img.shields.io/github/last-commit/hello8693DSZ/dsz-exam-showboard) | `Hello8693` |
+| [考试看板 Next](#-考试看板-Next) ![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next) | `ProjectCampus-CH` |
 
 ## 批注软件
 
@@ -512,7 +512,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://space.bilibili.com/404100570/">软硬工作室</a>
 
-### <img src="images/kaoshikanban-icon.svg" height="28"/> 考试看板Next
+### <img src="images/kaoshikanban-icon.svg" height="28"/> 考试看板 Next
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/MKStoler4096/dsz-exam-showboard-next?label=Stars)](https://github.com/MKStoler4096/dsz-exam-showboard-next/stargazers)
