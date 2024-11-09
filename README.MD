@@ -180,9 +180,9 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
 
-💬 **Dubi906w 锐评**：不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+💬 **Dubi906w 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
 
-💬 **Aris 锐评**：iNKORE! 做这个的时候我还不在工作室，转到 Web 之后现在也不怎么维护了，挖的坑还越来越多，u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
+💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
 <br/>
@@ -209,7 +209,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
 
-💬 **Dubi906w 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近1.5.0还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
+💬 **Dubi906w 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a>
 <br/>
@@ -238,8 +238,6 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
 **软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
-
-💬 **Dubi906w 锐评**：ECS 也还行，我没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/EnderWolf006/ElectronClassSchedule/">EnderWolf006/ElectronClassSchedule</a>
 <br/>
@@ -282,8 +280,6 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
 
-💬 **Dubi906w 锐评**：没用过，停更了，不评价。
-
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/clansty/ClassTools/">clansty/ClassTools</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/clansty/">凌莞~(=^▽^=)</a>
@@ -302,8 +298,6 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
 
-💬 **Dubi906w 锐评**：好用，不评价。
-
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/HelloWRC/StickyHomeworks/">HelloWRC/StickyHomeworks</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/HelloWRC/">HelloWRC</a>
@@ -320,9 +314,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-StickyAttention 是一款适用于Windows 系统教室一体机的作业显示工具，基于 HelloWRC 大佬的 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业等信息，后续将添加更多新内容，不过目前截至 2024 年 10 月 1 日似乎都没添加什么新功能。
-
-💬 **Dubi906w 锐评**：只能说先等等看吧，没用过不评价。
+StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业等信息，后续将添加更多新内容。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a>
 <br/>
@@ -341,8 +333,6 @@ StickyAttention 是一款适用于Windows 系统教室一体机的作业显示�
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业
-
-💬 **Dubi906w 锐评**：没用过，不评价。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/EnderWolf006/HomeworkBoard/">EnderWolf006/HomeworkBoard</a>
 <br/>
@@ -388,8 +378,6 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 桌面时钟、课程表、天气预报、自动新闻联播、定时关机、邮件公告板
 
-💬 **Dubi906w 锐评**：没用过，不评价。
-
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Return-Log/Education-Clock/">Return-Log/Education-Clock</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Return-Log/">Log</a>
@@ -408,8 +396,6 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
 
-💬 **Dubi906w 锐评**：没用过，不评价，不过也算是 CI 的启蒙导师了。
-
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
@@ -427,10 +413,7 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。<br/>
-**这只是我作为新手的练习作。欢迎提供更多意见！**
-
-💬 **Dubi906w 锐评**：没用过，不评价。
+PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/">RinLit-233-shiroko/PowerPoint-Touch-Assist</a>
 <br/>
@@ -452,7 +435,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 希沃白板 系列量身定做，其他程序也可以使用！🥳
 
-💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的启动Banner变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
+💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SRInternet-Studio/Seewo-Custom_Start/">SRInternet-Studio/Seewo-Custom_Start</a>
 <br/>
@@ -473,8 +456,6 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 ![Github Last Commit](https://img.shields.io/github/last-commit/XeonMEMZ/qnbf5)
 
 显示今天的值日生，小工具，随机点名功能，展示自定义课表。
-
-💬 **Dubi906w 锐评**：没用过，不评价，不过看到这一堆的 VB 写的，应该没有多少人会去Fork过后改。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/XeonMEMZ/qnbf5/">XeonMEMZ/qnbf5</a>
 <br/>
@@ -505,7 +486,3 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ProjectCampus-CH/">ProjectCampus-CH</a>
-
-## 开源许可
-
-遵守你妈的 WTFPL2 许可开源
