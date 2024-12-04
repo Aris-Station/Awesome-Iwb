@@ -4,6 +4,11 @@
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
 
+## 感谢
+
+**作者：** `ChenCy Lew`<br/>
+**主要贡献者：** [Aris-Offline](https://github.com/Aris-Offline)
+
 ## 提醒
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
@@ -20,6 +25,7 @@
 | - | - |
 | [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas) | `WXRIW` |
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
+| [InkCanvasForClass](#-inkcanvasforclass) (EOL) | `Doubx690i` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
 | [Inkways](#-inkways-wip) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
@@ -52,6 +58,7 @@
 
 ### <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="28" height="28"/> Ink Canvas
 
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![Github Stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/WXRIW/Ink-Canvas?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/WXRIW/Ink-Canvas)
@@ -69,7 +76,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `形状识别`
 
-💬 **Dubi906w 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
+💬 **ChenCy 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>
 <br/>
@@ -99,11 +106,47 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
 
-💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
+💬 **ChenCy 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ChangSakura/">ChangSakura</a>
+
+<br/>
+
+### <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
+
+> 该项目已经永久停止更新，原因未知。
+
+![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
+
+![GNOME](https://img.shields.io/badge/GNOME-003E92)
+![Github Stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?style=flat)
+![Github Forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/InkCanvas/InkCanvasForClass)
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%81%9C%E6%9B%B4-black)<br/>
+![Github Languages Top](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)
+![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
+
+Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
+
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
+
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`
+
+💬 **ChenCy 锐评**：新起点，新启航，ICC 挑过了 IC 和 ICA 肩上的重担，负重前行。目前正在重构底层代码中...，逗比欢迎大家尝鲜使用 **（不过逗比不建议在课堂上或者正式教学环境下使用）**
+
+💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a> (已归档)
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a> (账号已注销)
+
+<br/>
 
 ### <img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="28" height="28"/> 智绘教 Inkeys
 
@@ -111,10 +154,11 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 > 原名: `Intelligent-Drawing-Teaching`（IDT），中文: 智绘教
 
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![Github Stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat)
 ![Github Forks](https://img.shields.io/github/forks/Alan-CRL/Inkeys?style=flat)
 ![GitHub Issues](https://img.shields.io/github/issues/Alan-CRL/Inkeys)
-![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E6%9A%82%E6%97%B6%E5%81%9C%E6%9B%B4-yellow)<br/>
+![Update Status](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E8%BE%83%E4%B8%BA%E7%BC%93%E6%85%A2-blue)<br/>
 ![Github Languages Top](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys?logo=cplusplus&logoColor=white)
 ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
@@ -126,7 +170,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `手抖修正`, `多指书写`
 
-💬 **Dubi906w 锐评**：开发者最近停更了，11月份才继续更新（截至2024年9月21日），用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。
+💬 **ChenCy 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024年12月4日更新）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Alan-CRL/Inkeys/">Alan-CRL/Inkeys</a>
 <br/>
@@ -153,7 +197,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
 
-💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，我去当码农😄。
+💬 **ChenCy 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，我去当码农😄。
 
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
 <br/>
@@ -180,7 +224,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
 
-💬 **Dubi906w 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+💬 **ChenCy 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
 
 💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
 
@@ -209,7 +253,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
 
-💬 **Dubi906w 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
+💬 **ChenCy 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a>
 <br/>
@@ -262,7 +306,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。
 
-💬 **Dubi906w 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
+💬 **ChenCy 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a>
 <br/>
@@ -342,7 +386,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 
 ### <img src="https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img/Logo.png" width="28" height="28"/> Class Widgets
 
-![banner](https://github.com/RinLit-233-shiroko/Class-Widgets/raw/main/img%2Fpreview.png)
+![banner](https://github.com/Class-Widgets/Class-Widgets/blob/main/img/Banner.png?raw=true)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 ![Github Stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat)
@@ -355,7 +399,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 
 Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。
 
-💬 **Dubi906w 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，比如没有天气功能，以及部分功能还不是太完善等，不过开发与更新速度也挺快，比较期待，但是目前来说不会正式在教学环境使用。
+💬 **ChenCy 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，比如没有天气功能，以及部分功能还不是太完善等，不过开发与更新速度也挺快，比较期待，但是目前来说不会正式在教学环境使用。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/RinLit-233-shiroko/Class-Widgets/">RinLit-233-shiroko/Class-Widgets</a>
 <br/>
@@ -435,7 +479,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 希沃白板 系列量身定做，其他程序也可以使用！🥳
 
-💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
+💬 **ChenCy 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SRInternet-Studio/Seewo-Custom_Start/">SRInternet-Studio/Seewo-Custom_Start</a>
 <br/>
@@ -479,7 +523,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![GitHub Language Count](https://img.shields.io/github/languages/count/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg 'LICENSE')](LICENSE)
-[![QQ群](https://img.shields.io/badge/-QQ%E7%BE%A4%EF%BD%9C901670561-blue?style=flat&logo=TencentQQ&logoColor=white)](https://qm.qq.com/q/zDiEipHsaI)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
 
 展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
