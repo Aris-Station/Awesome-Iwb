@@ -515,7 +515,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![stars](https://img.shields.io/github/stars/MKStoler4096/dsz-exam-showboard-next?label=Stars)](https://github.com/MKStoler4096/dsz-exam-showboard-next/stargazers)
 [![forks](https://img.shields.io/github/forks/MKStoler4096/dsz-exam-showboard-next?label=Forks)](https://github.com/MKStoler4096/dsz-exam-showboard-next/forks)
 [![Watchers](https://img.shields.io/github/watchers/MKStoler4096/dsz-exam-showboard-next?style=social)](https://github.com/MKStoler4096/dsz-exam-showboard-next/watchers)
-[![Downloads](https://img.shields.io/github/downloads/MKStoler4096/dsz-exam-showboard-next/total?style=social&label=Downloads&logo=github)](https://github.com/MKStoler4096/dsz-exam-showboard-next/releases)
+[![Downloads](https://img.shields.io/github/downloads/MKStoler4096/dsz-exam-showboard-next/total?style=social&label=Downloads&logo=github)](https://github.com/MKStoler4096/dsz-exam-showboard-next/releases)<br/>
 [![GitHub Issues](https://img.shields.io/github/issues-search/MKStoler4096/dsz-exam-showboard-next?query=is%3Aopen&style=social-square&logo=github&label=Issues&color=%233fb950)](https://github.com/MKStoler4096/dsz-exam-showboard-next/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/MKStoler4096/dsz-exam-showboard-next?style=flat&logo=Github&label=Discussions)](https://github.com/MKStoler4096/dsz-exam-showboard-next/discussions)
 [![Created At](https://img.shields.io/github/created-at/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
