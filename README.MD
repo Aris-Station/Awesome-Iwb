@@ -1,15 +1,28 @@
+<div align="center">
+
+<img width="128" src="./images/aiwb-0.25x.png">
+
 # Awesome-Iwb
-一体机和电子白板实用软件合集
+
+适用于希沃、鸿合、京东方、东方中原等品牌的教学一体机、教学触摸屏和红外教学白板的 Windows 平台实用软件推荐合集。**为广大电教倾情撰写。**
+
+**🌟 每一个好的项目都值得被更多的人发现 🌟**
+
+---
+
+</div>
+
+## ⚠️ 注意
 
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
 
-## 感谢
+## 🙏 感谢
 
 **作者：** `ChenCy Lew`<br/>
 **主要贡献者：** [Aris-Offline](https://github.com/Aris-Offline)
 
-## 提醒
+## 🫧 提醒
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
 2. 欢迎添加内容！请创建 `Pull Request` ，按照当前已有格式添加。
@@ -17,9 +30,9 @@
 4. 不允许直接将二进制分发包包体托管到该仓库内。
 5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
 
-## 目录
+## 📚 目录
 
-### 批注软件
+### ✏️ 批注软件
 
 | 名称 | 开发者 |
 | - | - |
@@ -33,7 +46,7 @@
 | [SketchNow](#-sketchnow) ![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF) | `realybin` |
 | [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk) | `pubpub-zz` |
 
-### 课表与桌面小工具
+### 📊 课表与桌面小工具
 
 | 名称 | 开发者 |
 | - | - |
@@ -47,8 +60,9 @@
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
 | [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
 | [灵动课表](#灵动课表) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form) | `DuguSand` |
+| [ClassBoardSharp](#-classboardsharp) ![Github Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp) | `Candlest` |
 
-### 辅助类软件
+### 🛠️ 辅助类软件
 
 | 名称 | 开发者 |
 | - | - |
@@ -56,8 +70,12 @@
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板 Next](#-考试看板-Next) ![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next) | `ProjectCampus-CH` |
+| [SeewoKiller](#seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller) | `硬硬屎` |
+| [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
+| [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
+| [ENAL 希沃易登](#enal-希沃易登) | `file.iceawa.com` |
 
-## 批注软件
+## ✏️ 批注软件
 
 ### <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="28" height="28"/> Ink Canvas
 
@@ -326,7 +344,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/pubpub-zz/">pubpub-zz</a>
 
-## 课表与桌面小工具
+## 📊 课表与桌面小工具
 
 ### <img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="28" height="28"/> ClassIsland
 
@@ -566,7 +584,7 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
 
-## 辅助类软件
+## 🛠️ 辅助类软件
 
 ### <img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  height="28"/> PPT 触屏辅助(PowerPoint Touch Assist)
 
