@@ -31,7 +31,7 @@
 | [Inkways](#-inkways-wip) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
 | [SketchNow](#-sketchnow) ![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF) | `realybin` |
-| [ppInk](#-ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk) | `pubpub-zz` |
+| [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk) | `pubpub-zz` |
 
 ### 课表与桌面小工具
 
@@ -266,6 +266,65 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+
+### <img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="28" height="28"/> SketchNow
+
+![banner](https://github.com/SketchNow/SketchNow.WPF/raw/main/docs/banner.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/SketchNow/SketchNow.WPF?style=flat&color=red)](https://github.com/SketchNow/SketchNow.WPF/stargazers)
+[![forks](https://img.shields.io/github/forks/SketchNow/SketchNow.WPF?style=flat&color=blue)](https://github.com/SketchNow/SketchNow.WPF/forks)
+[![Watchers](https://img.shields.io/github/watchers/SketchNow/SketchNow.WPF?style=flat&color=green)](https://github.com/SketchNow/SketchNow.WPF/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SketchNow/SketchNow.WPF/total?style=flat&logo=github)](https://github.com/SketchNow/SketchNow.WPF/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SketchNow/SketchNow.WPF?query=is%3Aopen&label=issues&color=purple)](https://github.com/SketchNow/SketchNow.WPF/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SketchNow/SketchNow.WPF?style=flat)](https://github.com/SketchNow/SketchNow.WPF/discussions)
+[![Created At](https://img.shields.io/github/created-at/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+[![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
+![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20703302328-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/NhE0ZUNK0O)
+[![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=discord&color=%235865F2)](https://discord.gg/Aub356Dmqs)
+
+SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
+
+SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
+
+**目前虽然还没有中文支持，不过开发者是大学生，因此空闲时间也比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供几何绘图，模拟笔锋等高级功能。**
+
+> 你们大学生👨‍🎓也是被使唤上了好吧🤓☝️
+
+💬 **ChenCy 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，还没有中文支持，不过前途是一片光明啊。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SketchNow/SketchNow.WPF/">SketchNow/SketchNow.WPF</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/realybin/">realybin</a>
+
+### ppInk
+
+> Forked from [geovens/gInk](https://github.com/geovens/gInk)
+
+![banner](https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif)
+
+[![stars](https://img.shields.io/github/stars/pubpub-zz/ppInk?style=flat&color=red)](https://github.com/pubpub-zz/ppInk/stargazers)
+[![forks](https://img.shields.io/github/forks/pubpub-zz/ppInk?style=flat&color=blue)](https://github.com/pubpub-zz/ppInk/forks)
+[![Watchers](https://img.shields.io/github/watchers/pubpub-zz/ppInk?style=flat&color=green)](https://github.com/pubpub-zz/ppInk/watchers)
+[![Downloads](https://img.shields.io/github/downloads/pubpub-zz/ppInk/total?style=flat&logo=github)](https://github.com/pubpub-zz/ppInk/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/pubpub-zz/ppInk?query=is%3Aopen&label=issues&color=purple)](https://github.com/pubpub-zz/ppInk/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/pubpub-zz/ppInk?style=flat)](https://github.com/pubpub-zz/ppInk/discussions)
+[![Created At](https://img.shields.io/github/created-at/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)<br/>
+[![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk/commits/master)
+[![GitHub Language Count](https://img.shields.io/github/languages/count/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)
+![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+
+ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure).
+
+源自 gInk 它提供了许多新功能，这些功能自由地从其他应用程序（如 Epic Pen）中汲取灵感，使其更易于使用，功能更强大。ppInk/gInk 的设计秉承了简洁的理念，确保在演示过程中不会分散演示者或观众的注意力。ppInk 允许您选择不同的笔进行绘图，每支笔都有可配置的属性，而不必调整颜色、透明度和笔尖宽度、笔触等单个设置。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/pubpub-zz/ppInk/">pubpub-zz/ppInk</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/pubpub-zz/">pubpub-zz</a>
 
 ## 课表与桌面小工具
 
