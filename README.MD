@@ -70,7 +70,7 @@
 | [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) | `软硬工作室` |
 | [考试看板 Next](#-考试看板-Next) ![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next) | `ProjectCampus-CH` |
-| [SeewoKiller](#seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller) | `硬硬屎` |
+| [SeewoKiller](#-seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller) | `硬硬屎` |
 | [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
 | [ENAL 希沃易登](#enal-希沃易登) | `file.iceawa.com` |
@@ -709,3 +709,24 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ProjectCampus-CH/">ProjectCampus-CH</a>
+
+### <img src="https://camo.githubusercontent.com/e1cbae346ef716416cfead25e53d7a535667c4d48ba27a954713b44762b37216/68747470733a2f2f696d6167652e77687374752e75732e6b672f636c6162656c5f667269656e64735f62616467652e706e67"  height="28"/> SeewoKiller
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/whstu/SeewoKiller?style=flat&color=red)](https://github.com/whstu/SeewoKiller/stargazers)
+[![forks](https://img.shields.io/github/forks/whstu/SeewoKiller?style=flat&color=blue)](https://github.com/whstu/SeewoKiller/forks)
+[![Watchers](https://img.shields.io/github/watchers/whstu/SeewoKiller?style=flat&color=green)](https://github.com/whstu/SeewoKiller/watchers)
+[![Downloads](https://img.shields.io/github/downloads/whstu/SeewoKiller/total?style=flat&logo=github)](https://github.com/whstu/SeewoKiller/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/whstu/SeewoKiller?query=is%3Aopen&label=issues&color=purple)](https://github.com/whstu/SeewoKiller/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/whstu/SeewoKiller?style=flat)](https://github.com/whstu/SeewoKiller/discussions)
+[![Created At](https://img.shields.io/github/created-at/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
+[![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
+![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+
+希沃克星是一个专干希沃的工具。冰点还原、制裁晚自习、强制关闭希沃管家...
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/whstu/SeewoKiller/">whstu/SeewoKiller</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/whstu/">硬硬屎</a>
