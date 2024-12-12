@@ -584,6 +584,33 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/DuguSand/">DuguSand</a>
 
+### <img src="https://github.com/Candlest/ClassBoardSharp/raw/main/Resources/icon.ico" width="28" height="28"/> ClassBoardSharp
+
+![banner](https://github.com/Candlest/ClassBoardSharp/raw/main/README/theme_breeze.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/Candlest/ClassBoardSharp?style=flat&color=red)](https://github.com/Candlest/ClassBoardSharp/stargazers)
+[![forks](https://img.shields.io/github/forks/Candlest/ClassBoardSharp?style=flat&color=blue)](https://github.com/Candlest/ClassBoardSharp/forks)
+[![Watchers](https://img.shields.io/github/watchers/Candlest/ClassBoardSharp?style=flat&color=green)](https://github.com/Candlest/ClassBoardSharp/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Candlest/ClassBoardSharp/total?style=flat&logo=github)](https://github.com/Candlest/ClassBoardSharp/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Candlest/ClassBoardSharp?query=is%3Aopen&label=issues&color=purple)](https://github.com/Candlest/ClassBoardSharp/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Candlest/ClassBoardSharp?style=flat)](https://github.com/Candlest/ClassBoardSharp/discussions)
+[![Created At](https://img.shields.io/github/created-at/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
+![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![](https://img.shields.io/badge/.NET_Framework-@4.6.1-green.svg?logo=dotnet)<br/>
+[![](https://img.shields.io/badge/Web_DEMO-@Candlest/ClassBoard_F8-red.svg?logo=githubpages)](https://candlest.github.io/ClassBoard-F8/)
+
+ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，功能包括高考倒计时、公告栏、以及能够提示当前课程的课程表。ClassBoard 以兼容性为核心（支持希沃老设备），兼顾自由性和可用性（自定义程度高，但是能够做到开箱即用），力求成为一款易用且好用的一体机壁纸软件。
+
+💬 **ChenCy 锐评**：很小众的项目，和 `clansty/ClassTools` 有点类似。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Candlest/ClassBoardSharp/">Candlest/ClassBoardSharp</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Candlest/">Candlest</a>
+
 ## 🛠️ 辅助类软件
 
 ### <img src="https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/raw/main/img/logo.png"  height="28"/> PPT 触屏辅助(PowerPoint Touch Assist)
