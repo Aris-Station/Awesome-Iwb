@@ -723,10 +723,44 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 [![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
 希沃克星是一个专干希沃的工具。冰点还原、制裁晚自习、强制关闭希沃管家...
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/whstu/SeewoKiller/">whstu/SeewoKiller</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/whstu/">硬硬屎</a>
+
+### <img src="https://github.com/WhatDamon/OpenLuckyRandom/raw/main/assets/openluckyrandom.png"  height="28"/> OpenLuckyRandom
+
+![banner](https://github.com/WhatDamon/OpenLuckyRandom/raw/main/screenshots/WndMain.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/WhatDamon/OpenLuckyRandom?style=flat&color=red)](https://github.com/WhatDamon/OpenLuckyRandom/stargazers)
+[![forks](https://img.shields.io/github/forks/WhatDamon/OpenLuckyRandom?style=flat&color=blue)](https://github.com/WhatDamon/OpenLuckyRandom/forks)
+[![Watchers](https://img.shields.io/github/watchers/WhatDamon/OpenLuckyRandom?style=flat&color=green)](https://github.com/WhatDamon/OpenLuckyRandom/watchers)
+[![Downloads](https://img.shields.io/github/downloads/WhatDamon/OpenLuckyRandom/total?style=flat&logo=github)](https://github.com/WhatDamon/OpenLuckyRandom/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/WhatDamon/OpenLuckyRandom?query=is%3Aopen&label=issues&color=purple)](https://github.com/WhatDamon/OpenLuckyRandom/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/WhatDamon/OpenLuckyRandom?style=flat)](https://github.com/WhatDamon/OpenLuckyRandom/discussions)
+[![Created At](https://img.shields.io/github/created-at/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom)
+[![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom)
+![LICENSE](https://img.shields.io/badge/License-Apache--2.0-red.svg)
+
+启发于某沃一体机中的 LuckyRandom 人脸识别随机抽人，使用 WinForms 开发的玩具。与某沃一样采用了 OpenCvSharp4，都是用 C# 编写，只不过他们开发的版本使用到了 XAML Islands + WPF, 并且人脸识别上也没有使用本项目使用的 Haar 级联分类器，可以给带有摄像头的旧某沃一体机或者带有摄像头的鸿某一体机随机抽人使用。
+
+1. 允许切换包括虚拟摄像头在内的摄像头（原版读不到不使用驱动实现的虚拟摄像头）
+
+2. 有一定的灵活性（能自己选择级联分类器，最重要的是开源）
+
+3. 更小的体积（相比原版而言，体积约是原版的 2/3，分开编译甚至可以低于 100MiB）
+
+4. 支持大多数 Windows 设备而非限于某沃一体机（虽然原版提取出来以后也可以在其他设备运行）
+
+5. 支持 Windows 7（仅限使用 .NET 6 时, 原版由于 XAML Islands 只能在 Windows 10 1903 及更高版本使用）
+
+6. 更高版本的 .NET 支持（原版使用的是 .NET Core 3.1，虽然反编译并解决一下 WinRT 问题也可以升级）
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WhatDamon/OpenLuckyRandom/">WhatDamon/OpenLuckyRandom</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/WhatDamon/">Damon Lu</a>
