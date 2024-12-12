@@ -17,6 +17,9 @@
 > [!IMPORTANT]
 > **在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。**
 
+> [!warning]
+> **以下软件均为免费，如遇收费提示请注意甄别！**
+
 ## 🙏 感谢
 
 **作者：** `ChenCy Lew`<br/>
@@ -25,10 +28,29 @@
 ## 🫧 提醒
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
+
 2. 欢迎添加内容！请创建 `Pull Request` ，按照当前已有格式添加。
+
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
-4. 不允许直接将二进制分发包包体托管到该仓库内。
-5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
+
+4. ⚠️ **不允许直接将二进制分发包包体托管到该仓库内。**
+
+5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。🚫 **严禁推荐，上传至本仓库，在本仓库公开分享 任何软件的破解版，开心版等版本的任何信息，违者将被拉黑。**
+
+6. 若您开发的软件或项目在该列表上的，需要联系修改内容或移除内容的，请联系仓库维护者 `dubi906w`。
+
+7. **目录中无法导航到对应项目介绍的，要么是我还没写，要么就是超链接出了问题。** 如果是后者，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改问题，我会尽快通过。
+
+8. **请在遵守中华人民共和国相关法律规定和您所在地区的当地法律法规的规定的情况下上传合法内容。** 严禁上传含有色情，暴力，人口贩卖，毒品，政治等敏感内容，违者将被拉黑。
+
+9. **该列表仅供参考，信息可能会更新不及时！**
+
+## 👋 同类项目推荐
+
+[![Aris-Station/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Aris-Station&repo=Awesome-Iwb&show_owner=true)](https://github.com/Aris-Station/Awesome-Iwb)
+
+[![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
+
 
 ## 📚 目录
 
@@ -769,3 +791,17 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WhatDamon/OpenLuckyRandom/">WhatDamon/OpenLuckyRandom</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/WhatDamon/">Damon Lu</a>
+
+## 🌟 Stars 历史
+
+<div align="center">
+
+[![Star 历史](https://starchart.cc/dubi906w/Awesome-Iwb.svg?variant=adaptive)](https://starchart.cc/dubi906w/Awesome-Iwb/stargazers)
+
+**如果这个项目对您有帮助，请点亮 Star ⭐！**
+
+</div>
+
+## 📄 开源协议
+
+![GitHub License](https://img.shields.io/github/license/dubi906w/Awesome-Iwb)
