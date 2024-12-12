@@ -686,6 +686,8 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 ### <img src="images/kaoshikanban-icon.svg" height="28"/> 考试看板 Next
 
+![banner](https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png)
+
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/MKStoler4096/dsz-exam-showboard-next?style=flat&color=red)](https://github.com/MKStoler4096/dsz-exam-showboard-next/stargazers)
 [![forks](https://img.shields.io/github/forks/MKStoler4096/dsz-exam-showboard-next?style=flat&color=blue)](https://github.com/MKStoler4096/dsz-exam-showboard-next/forks)
@@ -700,7 +702,9 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg 'LICENSE')](LICENSE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
 
-展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
+DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的看板类软件。**
+
+**考试看板** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a>
 <br/>
