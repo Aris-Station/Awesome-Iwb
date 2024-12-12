@@ -56,6 +56,7 @@
 | [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
 | [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
 | [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention) | `jizilin6732` |
+| [ExtraIsland](#-extraisland) ![Github Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland) | `LiPolymer` |
 | [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
 | [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
 | [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
@@ -74,6 +75,10 @@
 | [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
 | [ENAL 希沃易登](#enal-希沃易登) | `file.iceawa.com` |
+| [ex-caller](#ex-caller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
+| [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker) | `Chengzi600` |
+| [SeewoHUB](#-seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
+| [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool) | `黎泽懿` |
 
 ## ✏️ 批注软件
 
