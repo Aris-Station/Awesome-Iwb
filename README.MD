@@ -572,6 +572,8 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 ### Education Clock
 
+![banner](./banner/education-clock.png)
+
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/Return-Log/Education-Clock?style=flat&color=red)](https://github.com/Return-Log/Education-Clock/stargazers)
 [![forks](https://img.shields.io/github/forks/Return-Log/Education-Clock?style=flat&color=blue)](https://github.com/Return-Log/Education-Clock/forks)
@@ -585,7 +587,7 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Return-Log/Education-Clock)](https://github.com/Return-Log/Education-Clock)
 ![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
 
-桌面时钟、课程表、天气预报、自动新闻联播、定时关机、邮件公告板
+Education Clock 是一个实用的班级信息看板。是一款适合学校使用的桌面时钟软件，该软件具有：倒计时 、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Return-Log/Education-Clock/">Return-Log/Education-Clock</a>
 <br/>
