@@ -22,8 +22,9 @@
 
 ## 🙏 感谢
 
-**作者：** `ChenCy Lew`<br/>
-**主要贡献者：** [Aris-Offline](https://github.com/Aris-Offline)
+**作者：** `ChenCy Lew` `Aris`
+
+以及一切帮助我们完善资料和文档的贡献者们
 
 ## 👂 提醒
 
