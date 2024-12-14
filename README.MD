@@ -25,7 +25,7 @@
 **作者：** `ChenCy Lew`<br/>
 **主要贡献者：** [Aris-Offline](https://github.com/Aris-Offline)
 
-## 🫧 提醒
+## 👂 提醒
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
 
@@ -47,10 +47,9 @@
 
 ## 👋 同类项目推荐
 
-[![Aris-Station/Awesome-Iwb](https://github-readme-stats.vercel.app/api/pin/?username=Aris-Station&repo=Awesome-Iwb&show_owner=true)](https://github.com/Aris-Station/Awesome-Iwb)
-
 [![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## 📚 目录
 
@@ -96,7 +95,7 @@
 | [SeewoKiller](#-seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller) | `硬硬屎` |
 | [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
-| [ENAL 希沃易登](#enal-希沃易登) | `file.iceawa.com` |
+| [ENAL 希沃易登](#-enal-希沃易登) | `file.iceawa.com` |
 | [ex-caller](#ex-caller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
 | [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker) | `Chengzi600` |
 | [SeewoHUB](#-seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
@@ -117,7 +116,7 @@
 [![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/WXRIW/Ink-Canvas)](https://github.com/WXRIW/Ink-Canvas)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/WXRIW/Ink-Canvas?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/WXRIW/Ink-Canvas)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/WXRIW/Ink-Canvas?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20891913576-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
 Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升5-10 倍），系统资源占用更小，使用体验更佳。
@@ -151,7 +150,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于WPF/C#，其针对希沃
 [![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry)](https://github.com/InkCanvas/Ink-Canvas-Artistry/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/Ink-Canvas-Artistry)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/Ink-Canvas-Artistry?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/InkCanvas/Ink-Canvas-Artistry)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/InkCanvas/Ink-Canvas-Artistry?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20617707731-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
 
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。
@@ -183,7 +182,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 [![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/InkCanvas/InkCanvasForClass)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/InkCanvas/InkCanvasForClass?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
@@ -215,7 +214,7 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 [![Github Last Commit](https://img.shields.io/github/last-commit/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/dubi906w/Ink-Canvas-Reborn?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/PDfJCGLqwM)
 
 Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，ICR 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
@@ -245,7 +244,7 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 [![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Alan-CRL/Inkeys)](https://github.com/Alan-CRL/Inkeys)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/Alan-CRL/Inkeys?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20618720802-white?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6)
 
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
@@ -327,7 +326,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![GitHub License](https://img.shields.io/github/license/SketchNow/SketchNow.WPF?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20703302328-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/NhE0ZUNK0O)
 [![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=discord&color=%235865F2)](https://discord.gg/Aub356Dmqs)
 
@@ -361,7 +360,7 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 [![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk/commits/master)
 [![GitHub Language Count](https://img.shields.io/github/languages/count/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![GitHub License](https://img.shields.io/github/license/pubpub-zz/ppInk?color=red)
 
 ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure).
 
@@ -389,7 +388,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 [![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/ClassIsland/ClassIsland)](https://github.com/ClassIsland/ClassIsland)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/ClassIsland/ClassIsland?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/ClassIsland/ClassIsland)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![GitHub License](https://img.shields.io/github/license/ClassIsland/ClassIsland?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20958840932-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
@@ -420,7 +419,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 [![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/EnderWolf006/ElectronClassSchedule?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20914887202-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zq9S3R6zMk)
 
 ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
@@ -446,7 +445,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 [![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/STBBRD/ZongziTEK-Blackboard-Sticker)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/STBBRD/ZongziTEK-Blackboard-Sticker?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/STBBRD/ZongziTEK-Blackboard-Sticker?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201101582374-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。
@@ -471,7 +470,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 [![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)](https://github.com/clansty/ClassTools/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/clansty/ClassTools)](https://github.com/clansty/ClassTools)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/clansty/ClassTools)](https://github.com/clansty/ClassTools)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/clansty/ClassTools?color=red)
 
 这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
 
@@ -493,7 +492,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 [![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/HelloWRC/StickyHomeworks)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/HelloWRC/StickyHomeworks?color=red)
 
 StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
 
@@ -515,7 +514,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 [![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Sticky-attention/Sticky-attention)](https://github.com/Sticky-attention/Sticky-attention)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Sticky-attention/Sticky-attention)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/Sticky-attention/Sticky-attention?color=red)
 
 StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。后续将添加更多新内容，敬请期待！
 
@@ -535,7 +534,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 [![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/EnderWolf006/HomeworkBoard?color=red)
 
 作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业
 
@@ -558,7 +557,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 [![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/Class-Widgets)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/RinLit-233-shiroko/Class-Widgets?color=red)
 
 Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。
 
@@ -585,7 +584,7 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 [![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock)](https://github.com/Return-Log/Education-Clock/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Return-Log/Education-Clock)](https://github.com/Return-Log/Education-Clock)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Return-Log/Education-Clock)](https://github.com/Return-Log/Education-Clock)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/Return-Log/Education-Clock?color=red)
 
 Education Clock 是一个实用的班级信息看板。是一款适合学校使用的桌面时钟软件，该软件具有：倒计时 、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能。
 
@@ -605,7 +604,7 @@ Education Clock 是一个实用的班级信息看板。是一款适合学校使�
 [![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)](https://github.com/DuguSand/class_form/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/DuguSand/class_form)](https://github.com/DuguSand/class_form)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![GitHub License](https://img.shields.io/github/license/DuguSand/class_form?color=red)
 
 一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
 
@@ -628,7 +627,7 @@ Education Clock 是一个实用的班级信息看板。是一款适合学校使�
 [![Github Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Candlest/ClassBoardSharp)](https://github.com/Candlest/ClassBoardSharp)
-![LICENSE](https://img.shields.io/badge/License-MIT-red.svg)
+![GitHub License](https://img.shields.io/github/license/Candlest/ClassBoardSharp?color=red)
 ![](https://img.shields.io/badge/.NET_Framework-@4.6.1-green.svg?logo=dotnet)<br/>
 [![](https://img.shields.io/badge/Web_DEMO-@Candlest/ClassBoard_F8-red.svg?logo=githubpages)](https://candlest.github.io/ClassBoard-F8/)
 
@@ -655,7 +654,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 [![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist)](https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/RinLit-233-shiroko/PowerPoint-Touch-Assist)](https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/RinLit-233-shiroko/PowerPoint-Touch-Assist)](https://github.com/RinLit-233-shiroko/PowerPoint-Touch-Assist)
-![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/RinLit-233-shiroko/PowerPoint-Touch-Assist?color=red)
 
 PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击”翻页。
 
@@ -677,7 +676,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start)](https://github.com/SRInternet-Studio/Seewo-Custom_Start/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/SRInternet-Studio/Seewo-Custom_Start)](https://github.com/SRInternet-Studio/Seewo-Custom_Start)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SRInternet-Studio/Seewo-Custom_Start)](https://github.com/SRInternet-Studio/Seewo-Custom_Start)
-![LICENSE](https://img.shields.io/badge/License-Apache--2.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/SRInternet-Studio/Seewo-Custom_Start?color=red)
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 希沃白板 系列量身定做，其他程序也可以使用！🥳
 
@@ -702,6 +701,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![Github Last Commit](https://img.shields.io/github/last-commit/XeonMEMZ/qnbf5)](https://github.com/XeonMEMZ/qnbf5/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/XeonMEMZ/qnbf5)](https://github.com/XeonMEMZ/qnbf5)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/XeonMEMZ/qnbf5)](https://github.com/XeonMEMZ/qnbf5)
+![GitHub License](https://img.shields.io/github/license/XeonMEMZ/qnbf5?color=red)
 
 显示今天的值日生，小工具，随机点名功能，展示自定义课表。
 
@@ -728,7 +728,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 [![Github Last Commit](https://img.shields.io/github/last-commit/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
-[![LICENSE](https://img.shields.io/badge/License-GPL--3.0-red.svg 'LICENSE')](LICENSE)
+![GitHub License](https://img.shields.io/github/license/MKStoler4096/dsz-exam-showboard-next?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/zDiEipHsaI)
 
 DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的看板类软件。**
@@ -752,6 +752,7 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 [![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/whstu/SeewoKiller)](https://github.com/whstu/SeewoKiller)
+![GitHub License](https://img.shields.io/github/license/whstu/SeewoKiller?color=red)
 
 希沃克星是一个专干希沃的工具。冰点还原、制裁晚自习、强制关闭希沃管家...
 
@@ -774,7 +775,7 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 [![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/WhatDamon/OpenLuckyRandom)](https://github.com/WhatDamon/OpenLuckyRandom)
-![LICENSE](https://img.shields.io/badge/License-Apache--2.0-red.svg)
+![GitHub License](https://img.shields.io/github/license/WhatDamon/OpenLuckyRandom?color=red)
 
 启发于某沃一体机中的 LuckyRandom 人脸识别随机抽人，使用 WinForms 开发的玩具。与某沃一样采用了 OpenCvSharp4，都是用 C# 编写，只不过他们开发的版本使用到了 XAML Islands + WPF, 并且人脸识别上也没有使用本项目使用的 Haar 级联分类器，可以给带有摄像头的旧某沃一体机或者带有摄像头的鸿某一体机随机抽人使用。
 
@@ -793,6 +794,126 @@ DSZ考试看板的复活版。**一款显示当前时间与考试详细信息的
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WhatDamon/OpenLuckyRandom/">WhatDamon/OpenLuckyRandom</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/WhatDamon/">Damon Lu</a>
+
+### MythwareToolkit
+
+![banner](https://img-blog.csdnimg.cn/60d799d3637b4fe8a99c295a6bad605b.png#pic_center)
+
+[![stars](https://img.shields.io/github/stars/BengbuGuards/MythwareToolkit?style=flat&color=red)](https://github.com/BengbuGuards/MythwareToolkit/stargazers)
+[![forks](https://img.shields.io/github/forks/BengbuGuards/MythwareToolkit?style=flat&color=blue)](https://github.com/BengbuGuards/MythwareToolkit/forks)
+[![Watchers](https://img.shields.io/github/watchers/BengbuGuards/MythwareToolkit?style=flat&color=green)](https://github.com/BengbuGuards/MythwareToolkit/watchers)
+[![Downloads](https://img.shields.io/github/downloads/BengbuGuards/MythwareToolkit/total?style=flat&logo=github)](https://github.com/BengbuGuards/MythwareToolkit/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/BengbuGuards/MythwareToolkit?query=is%3Aopen&label=issues&color=purple)](https://github.com/BengbuGuards/MythwareToolkit/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/BengbuGuards/MythwareToolkit?style=flat)](https://github.com/BengbuGuards/MythwareToolkit/discussions)
+[![Created At](https://img.shields.io/github/created-at/BengbuGuards/MythwareToolkit)](https://github.com/BengbuGuards/MythwareToolkit)
+[![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit)](https://github.com/BengbuGuards/MythwareToolkit/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/BengbuGuards/MythwareToolkit)](https://github.com/BengbuGuards/MythwareToolkit)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/BengbuGuards/MythwareToolkit)](https://github.com/BengbuGuards/MythwareToolkit)
+![GitHub License](https://img.shields.io/github/license/BengbuGuards/MythwareToolkit?color=red)
+
+极域工具包，支持多种控制极域以及学生机房管理助手的工具。`StudentMain`、`Mythware`、`Jiyu`，支持不依赖 `taskkill`、`ntsd` 等工具杀掉极域。极域未运行时可启动极域，降权到登录用户（路径来自注册表），可显示极域存活状态、解除极域网络限制功能、解除极域 U 盘限制功能、窗口化/全屏化极域广播，支持解极域键盘锁。
+
+**因为我们学校的教室电脑被安装了极域学生端用于集控，找到了这个项目，帮助很大。**
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/BengbuGuards/MythwareToolkit/">BengbuGuards/MythwareToolkit</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/BengbuGuards/">小流汗黄豆</a>
+
+### <img src="./images/ENAL.png" height="28"/> ENAL 希沃易登
+
+> 该软件没有开源仓库，我们正在尝试获取到该软件的更多信息。
+
+希沃白板的自动登录插件，通过替代 EasiAgent 来实现多账号自动免密登录。
+
+<b>下载链接</b>: <a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">https://file.iceawa.com/iceawa-onedrive/ENAL/Ver</a>
+
+### ex-caller
+
+![banner](https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/typed-sigterm/ex-caller?style=flat&color=red)](https://github.com/typed-sigterm/ex-caller/stargazers)
+[![forks](https://img.shields.io/github/forks/typed-sigterm/ex-caller?style=flat&color=blue)](https://github.com/typed-sigterm/ex-caller/forks)
+[![Watchers](https://img.shields.io/github/watchers/typed-sigterm/ex-caller?style=flat&color=green)](https://github.com/typed-sigterm/ex-caller/watchers)
+[![Downloads](https://img.shields.io/github/downloads/typed-sigterm/ex-caller/total?style=flat&logo=github)](https://github.com/typed-sigterm/ex-caller/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/typed-sigterm/ex-caller?query=is%3Aopen&label=issues&color=purple)](https://github.com/typed-sigterm/ex-caller/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/typed-sigterm/ex-caller?style=flat)](https://github.com/typed-sigterm/ex-caller/discussions)
+[![Created At](https://img.shields.io/github/created-at/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller)
+[![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller)
+![GitHub License](https://img.shields.io/github/license/typed-sigterm/ex-caller?color=red)
+
+简约风格的随机点名工具，使用 Vue 开发。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/typed-sigterm/ex-caller/">typed-sigterm/ex-caller</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/typed-sigterm/">Typed SIGTERM</a>
+
+### ClassNamePicker
+
+![banner](./banner/classnamepicker-screenshot.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/Chengzi600/ClassNamePicker?style=flat&color=red)](https://github.com/Chengzi600/ClassNamePicker/stargazers)
+[![forks](https://img.shields.io/github/forks/Chengzi600/ClassNamePicker?style=flat&color=blue)](https://github.com/Chengzi600/ClassNamePicker/forks)
+[![Watchers](https://img.shields.io/github/watchers/Chengzi600/ClassNamePicker?style=flat&color=green)](https://github.com/Chengzi600/ClassNamePicker/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Chengzi600/ClassNamePicker/total?style=flat&logo=github)](https://github.com/Chengzi600/ClassNamePicker/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Chengzi600/ClassNamePicker?query=is%3Aopen&label=issues&color=purple)](https://github.com/Chengzi600/ClassNamePicker/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Chengzi600/ClassNamePicker?style=flat)](https://github.com/Chengzi600/ClassNamePicker/discussions)
+[![Created At](https://img.shields.io/github/created-at/Chengzi600/ClassNamePicker)](https://github.com/Chengzi600/ClassNamePicker)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker)](https://github.com/Chengzi600/ClassNamePicker/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Chengzi600/ClassNamePicker)](https://github.com/Chengzi600/ClassNamePicker)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Chengzi600/ClassNamePicker)](https://github.com/Chengzi600/ClassNamePicker)
+![GitHub License](https://img.shields.io/github/license/Chengzi600/ClassNamePicker?color=red)
+
+**ClassNamePicker 是一款功能强大的课堂随机点名工具。** 使用 PyQt5 编写，界面简洁。支持从整个班级的名单中随机抽取一人、选择从班级的男生/女生名单中随机抽取一人，可选是否允许重复抽到一人、可保存已抽取过人的名字，并在下次打开后读取，可统计统计已抽人数、剩余人数、概率、总抽取次数等信息。
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Chengzi600/ClassNamePicker/">Chengzi600/ClassNamePicker</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Chengzi600/">Chengzi600</a>
+
+### <img src="https://private-user-images.githubusercontent.com/121096061/376007500-a0d2487f-7c3c-4dce-a3f9-125658d8386f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxNDY4NDMsIm5iZiI6MTczNDE0NjU0MywicGF0aCI6Ii8xMjEwOTYwNjEvMzc2MDA3NTAwLWEwZDI0ODdmLTdjM2MtNGRjZS1hM2Y5LTEyNTY1OGQ4Mzg2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxNFQwMzIyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmMwN2Y1OGE5NTBmY2Y2OTI3NTUyNDk3NThmZTFhMmU1ZTgyYjBjYmZmNWQ0NDhkOGNmZTVlNWRkN2VlODFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.P0ZadCLj8whBPCkSYQe0tslgt_x4N5BMGa82AZyqyEg"  height="28"/> SeewoHUB
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/CNwenwen/SeewoHUB?style=flat&color=red)](https://github.com/CNwenwen/SeewoHUB/stargazers)
+[![forks](https://img.shields.io/github/forks/CNwenwen/SeewoHUB?style=flat&color=blue)](https://github.com/CNwenwen/SeewoHUB/forks)
+[![Watchers](https://img.shields.io/github/watchers/CNwenwen/SeewoHUB?style=flat&color=green)](https://github.com/CNwenwen/SeewoHUB/watchers)
+[![Downloads](https://img.shields.io/github/downloads/CNwenwen/SeewoHUB/total?style=flat&logo=github)](https://github.com/CNwenwen/SeewoHUB/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/CNwenwen/SeewoHUB?query=is%3Aopen&label=issues&color=purple)](https://github.com/CNwenwen/SeewoHUB/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/CNwenwen/SeewoHUB?style=flat)](https://github.com/CNwenwen/SeewoHUB/discussions)
+[![Created At](https://img.shields.io/github/created-at/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+[![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+![GitHub License](https://img.shields.io/github/license/CNwenwen/SeewoHUB?color=red)
+
+一款方便、快捷的下载各类 希沃一体机教学软件 的软件
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/CNwenwen/">Hyjthfhtself</a>
+
+### <img src="https://github.com/SectionIstool/SectionIstool/raw/main/resources/SectionIstool_icon.png"  height="28"/> SectionIstool
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/SectionIstool/SectionIstool?style=flat&color=red)](https://github.com/SectionIstool/SectionIstool/stargazers)
+[![forks](https://img.shields.io/github/forks/SectionIstool/SectionIstool?style=flat&color=blue)](https://github.com/SectionIstool/SectionIstool/forks)
+[![Watchers](https://img.shields.io/github/watchers/SectionIstool/SectionIstool?style=flat&color=green)](https://github.com/SectionIstool/SectionIstool/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SectionIstool/SectionIstool/total?style=flat&logo=github)](https://github.com/SectionIstool/SectionIstool/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SectionIstool/SectionIstool?query=is%3Aopen&label=issues&color=purple)](https://github.com/SectionIstool/SectionIstool/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SectionIstool/SectionIstool?style=flat)](https://github.com/SectionIstool/SectionIstool/discussions)
+[![Created At](https://img.shields.io/github/created-at/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
+[![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SectionIstool/SectionIstool)](https://github.com/SectionIstool/SectionIstool)
+![GitHub License](https://img.shields.io/github/license/SectionIstool/SectionIstool?color=red)
+
+该软件会使您在学校班级电脑中方便、快捷的下载适合班级下载各类软件
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SectionIstool/SectionIstool/">SectionIstool/SectionIstool</a>
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/lzy98276/">黎泽懿</a>
 
 ## 🌟 Stars 历史
 
