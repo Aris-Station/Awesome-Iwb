@@ -60,7 +60,7 @@
 | [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas) | `WXRIW` |
 | [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
 | [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass) | `Doubx690i` |
-| [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/dubi906w/Ink-Canvas-Reborn) | `ChenCy Lew` |
+| [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn) | `ChenCy Lew` |
 | [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
 | [Inkways](#-inkways-wip) | `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
@@ -201,27 +201,27 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a> (账号已注销)
 
-### <img src="https://github.com/dubi906w/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="28" height="28"/> Ink Canvas Reborn
+### <img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="28" height="28"/> Ink Canvas Reborn
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
-[![stars](https://img.shields.io/github/stars/dubi906w/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/dubi906w/Ink-Canvas-Reborn/stargazers)
-[![forks](https://img.shields.io/github/forks/dubi906w/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/dubi906w/Ink-Canvas-Reborn/forks)
-[![Watchers](https://img.shields.io/github/watchers/dubi906w/Ink-Canvas-Reborn?style=flat&color=green)](https://github.com/dubi906w/Ink-Canvas-Reborn/watchers)
-[![Downloads](https://img.shields.io/github/downloads/dubi906w/Ink-Canvas-Reborn/total?style=flat&logo=github)](https://github.com/dubi906w/Ink-Canvas-Reborn/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/dubi906w/Ink-Canvas-Reborn?query=is%3Aopen&label=issues&color=purple)](https://github.com/dubi906w/Ink-Canvas-Reborn/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/dubi906w/Ink-Canvas-Reborn?style=flat)](https://github.com/dubi906w/Ink-Canvas-Reborn/discussions)
-[![Created At](https://img.shields.io/github/created-at/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn)
-[![Github Last Commit](https://img.shields.io/github/last-commit/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/dubi906w/Ink-Canvas-Reborn)](https://github.com/dubi906w/Ink-Canvas-Reborn)
-![GitHub License](https://img.shields.io/github/license/dubi906w/Ink-Canvas-Reborn?color=red)
+[![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
+[![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/forks)
+[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=green)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/Ink-Canvas-Reborn/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/Ink-Canvas-Reborn?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/Ink-Canvas-Reborn?style=flat)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/discussions)
+[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Ink-Canvas-Reborn?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/PDfJCGLqwM)
 
 Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，ICR 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
 
 💬 **ChenCy 锐评**：继 ICC 之后，又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/dubi906w/Ink-Canvas-Reborn/">dubi906w/Ink-Canvas-Reborn</a>
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a>
 <br/>
