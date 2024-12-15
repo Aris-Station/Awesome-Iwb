@@ -97,7 +97,7 @@
 | [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
 | [ENAL 希沃易登](#-enal-希沃易登) | `file.iceawa.com` |
-| [ex-caller](#excaller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
+| [ExCaller](#excaller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
 | [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker) | `Chengzi600` |
 | [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
 | [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool) | `黎泽懿` |
