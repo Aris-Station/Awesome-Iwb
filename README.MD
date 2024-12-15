@@ -836,7 +836,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 
 <b>下载链接</b>: <a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">https://file.iceawa.com/iceawa-onedrive/ENAL/Ver</a>
 
-### ex-caller
+### <img src="https://raw.githubusercontent.com/typed-sigterm/ex-caller/refs/heads/main/public/logo.webp"  height="28"/> ExCaller
 
 ![banner](https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp)
 
@@ -853,7 +853,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 [![GitHub Top Language](https://img.shields.io/github/languages/top/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller)
 ![GitHub License](https://img.shields.io/github/license/typed-sigterm/ex-caller?color=red)
 
-简约风格的随机点名工具，使用 Vue 开发。
+简约风格的随机点名工具，使用 Vue 开发。支持彩带效果、自定义过号时间、设置多个名单并随时切换、名单批量导入导出、自定义背景图、点名计划。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/typed-sigterm/ex-caller/">typed-sigterm/ex-caller</a>
 <br/>
