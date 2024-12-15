@@ -8,6 +8,12 @@
 
 **🌟 每一个好的项目都值得被更多的人发现 🌟**
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GNU GPLv3](https://img.shields.io/badge/License-WTFPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/abikaki/awesome-speech-emotion-recognition/graphs/commit-activity)<br/>
+![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Awesome-Iwb)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/Awesome-Iwb/Awesome-Iwb&label=Visitors&countColor=%23263759&style=flat)
+
 </div>
 
 ---
@@ -836,7 +842,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 
 <b>下载链接</b>: <a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">https://file.iceawa.com/iceawa-onedrive/ENAL/Ver</a>
 
-### <img src="https://raw.githubusercontent.com/typed-sigterm/ex-caller/refs/heads/main/public/logo.webp"  height="28"/> ExCaller
+### ex-caller
 
 ![banner](https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp)
 
@@ -853,7 +859,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 [![GitHub Top Language](https://img.shields.io/github/languages/top/typed-sigterm/ex-caller)](https://github.com/typed-sigterm/ex-caller)
 ![GitHub License](https://img.shields.io/github/license/typed-sigterm/ex-caller?color=red)
 
-简约风格的随机点名工具，使用 Vue 开发。支持彩带效果、自定义过号时间、设置多个名单并随时切换、名单批量导入导出、自定义背景图、点名计划。
+简约风格的随机点名工具，使用 Vue 开发。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/typed-sigterm/ex-caller/">typed-sigterm/ex-caller</a>
 <br/>
