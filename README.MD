@@ -54,53 +54,61 @@
 
 ## 📚 目录
 
+- 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
+
+- 🥈 是指推荐尝试体验的，功能基本完善的软件。基本上这些被标注的项目大多比被 🥇 标注的项目稍微逊色一些或体验略微欠缺一些，但依旧做得很不错。
+
+- 🌟 是指那些目前看来发展不怎么样的，但前景远大的软件或项目。
+
+- 🔴 是指最近几天内收录的新软件或新项目。
+
 ### ✏️ 批注软件
 
 | 名称 | 开发者 |
 | - | - |
-| [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas) | `WXRIW` |
-| [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry) | `ChangSakura` |
-| [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass) | `Doubx690i` |
-| [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn) | `ChenCy Lew` |
-| [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys) | `Alan-CRL` |
-| [Inkways](#-inkways-wip) | `iNKORE Studios` |
-| [Inkways Classic](#-inkways-classic) | `iNKORE Studios` |
-| [SketchNow](#-sketchnow) ![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF) | `realybin` |
-| [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk) | `pubpub-zz` |
+| 🥈 [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
+| 🥇 [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
+| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
+| 🔴 🌟 [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `ChenCy Lew` |
+| 🥈 [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
+| [Inkways](#-inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
+| [Inkways Classic](#-inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
+| 🔴 🌟 [SketchNow](#-sketchnow) ![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
+| 🔴 [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 
 ### 📊 课表与桌面小工具
 
 | 名称 | 开发者 |
 | - | - |
-| [ClassIsland](#-classisland) ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland) | `HelloWRC` |
-| [ElectronClassSchedule](#-electronclassschedule) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule) | `EnderWolf006` |
-| [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker) | `ZongziTEK` |
-| [ClassTools](#classtools) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools) | `凌莞~(=^▽^=)` |
-| [StickyHomeworks](#stickyhomeworks) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks) | `HelloWRC` |
-| [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention) | `jizilin6732` |
-| [ExtraIsland](#-extraisland) ![Github Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland) | `LiPolymer` |
-| [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard) | `EnderWolf006` |
-| [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets) | `RinLit-233-shiroko` |
-| [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock) | `Log` |
-| [灵动课表](#灵动课表) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form) | `DuguSand` |
-| [ClassBoardSharp](#-classboardsharp) ![Github Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp) | `Candlest` |
+| 🥇 [ClassIsland](#-classisland) ![Github Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland?label=updated) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
+| [ElectronClassSchedule](#-electronclassschedule) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule?label=updated) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
+| 🥇 [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker?label=updated) | <img src="https://github.com/STBBRD.png" width="20" height="20"/> `ZongziTEK` |
+| ~~[ClassTools](#classtools)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools?label=updated) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
+| ~~[StickyHomeworks](#stickyhomeworks)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks?label=updated) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
+| 🌟 [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention?label=updated) | <img src="https://github.com/jizilin6732.png" width="20" height="20"/> `jizilin6732` |
+| 🔴 🌟 [ExtraIsland](#-extraisland) ![Github Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland?label=updated) | <img src="https://github.com/LiPolymer.png" width="20" height="20"/> `LiPolymer` |
+| [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard?label=updated) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
+| 🥈 [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit-233-shiroko` |
+| [Education Clock](#education-clock) ![Github Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock?label=updated) | <img src="https://github.com/Return-Log.png" width="20" height="20"/> `Log` |
+| ~~[灵动课表](#灵动课表)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form?label=updated) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
+| 🔴 [ClassBoardSharp](#-classboardsharp) ![Github Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp?label=updated) | <img src="https://github.com/Candlest.png" width="20" height="20"/> `Candlest` |
 
 ### 🛠️ 辅助类软件
 
 | 名称 | 开发者 |
 | - | - |
-| [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist) | `RinLit-233-shiroko` |
-| [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start) | `思锐工作室 SR-Studio` |
-| [全能班辅](#全能班辅) | `软硬工作室` |
-| [考试看板 Next](#-考试看板-Next) ![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next) | `ProjectCampus-CH` |
-| [SeewoKiller](#-seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller) | `硬硬屎` |
-| [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom) | `Damon Lu` |
-| [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit) | `小流汗黄豆` |
-| [ENAL 希沃易登](#-enal-希沃易登) | `file.iceawa.com` |
-| [ex-caller](#ex-caller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
-| [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker) | `Chengzi600` |
-| [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
-| [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool) | `黎泽懿` |
+| [PPT 触屏辅助](#-ppt-触屏辅助powerpoint-touch-assist) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit-233-shiroko` |
+| 🥇 [（希沃）定制启动器](#希沃定制启动器) ![Github Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
+| [全能班辅](#全能班辅) ![Github Last Commit](https://img.shields.io/github/last-commit/XeonMEMZ/qnbf5?label=updated) | <img src="https://github.com/XeonMEMZ.png" width="20" height="20"/> `XeonMEMZ` |
+| 🥈 [考试看板 Next](#-考试看板-Next) ![Github Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next?label=updated) | <img src="https://github.com/ProjectCampus-CH.png" width="20" height="20"/> `ProjectCampus-CH` |
+| 🔴 [SeewoKiller](#-seewokiller) ![Github Last Commit](https://img.shields.io/github/last-commit/whstu/SeewoKiller?label=updated) | <img src="https://github.com/whstu.png" width="20" height="20"/> `硬硬屎` |
+| 🔴 [OpenLuckyRandom](#-openluckyrandom) ![Github Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom?label=updated) | <img src="https://github.com/WhatDamon.png" width="20" height="20"/> `Damon Lu` |
+| 🔴 [MythwareToolkit](#mythwaretoolkit) ![Github Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit?label=updated) | <img src="https://github.com/BengbuGuards.png" width="20" height="20"/> `小流汗黄豆` |
+| 🔴 🥈 [ENAL 希沃易登](#-enal-希沃易登) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | `file.iceawa.com` |
+| 🔴 [ex-caller](#ex-caller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller?label=updated) | <img src="https://github.com/typed-sigterm.png" width="20" height="20"/> `Typed SIGTERM` |
+| 🔴 [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker?label=updated) | <img src="https://github.com/Chengzi600.png" width="20" height="20"/> `Chengzi600` |
+| 🔴 [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
+| 🔴 [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool?label=updated) | <img src="https://github.com/lzy98276.png" width="20" height="20"/> `黎泽懿` |
 
 ## ✏️ 批注软件
 
