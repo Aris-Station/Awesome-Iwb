@@ -99,7 +99,7 @@
 | [ENAL 希沃易登](#-enal-希沃易登) | `file.iceawa.com` |
 | [ex-caller](#ex-caller) ![Github Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller) | `Typed SIGTERM` |
 | [ClassNamePicker](#classnamepicker) ![Github Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker) | `Chengzi600` |
-| [SeewoHUB](#-seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
+| [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB) | `Hyjthfhtself` |
 | [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool) | `黎泽懿` |
 
 ## ✏️ 批注软件
@@ -874,7 +874,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Chengzi600/">Chengzi600</a>
 
-### <img src="https://private-user-images.githubusercontent.com/121096061/376007500-a0d2487f-7c3c-4dce-a3f9-125658d8386f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxNDY4NDMsIm5iZiI6MTczNDE0NjU0MywicGF0aCI6Ii8xMjEwOTYwNjEvMzc2MDA3NTAwLWEwZDI0ODdmLTdjM2MtNGRjZS1hM2Y5LTEyNTY1OGQ4Mzg2Zi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxNFQwMzIyMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmMwN2Y1OGE5NTBmY2Y2OTI3NTUyNDk3NThmZTFhMmU1ZTgyYjBjYmZmNWQ0NDhkOGNmZTVlNWRkN2VlODFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.P0ZadCLj8whBPCkSYQe0tslgt_x4N5BMGa82AZyqyEg"  height="28"/> SeewoHUB
+### SeewoHUB
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/CNwenwen/SeewoHUB?style=flat&color=red)](https://github.com/CNwenwen/SeewoHUB/stargazers)
