@@ -920,7 +920,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 
 <div align="center">
 
-[![Star 历史](https://starchart.cc/dubi906w/Awesome-Iwb.svg?variant=adaptive)](https://starchart.cc/dubi906w/Awesome-Iwb/stargazers)
+[![Star 历史](https://starchart.cc/Awesome-Iwb/Awesome-Iwb.svg?variant=adaptive)](https://starchart.cc/Awesome-Iwb/Awesome-Iwb/stargazers)
 
 **如果这个项目对您有帮助，请点亮 Star ⭐！**
 
