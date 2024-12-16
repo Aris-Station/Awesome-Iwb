@@ -80,7 +80,7 @@
 | 名称 | 开发者 |
 | - | - |
 | 🥈 [Ink Canvas](#ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
-| 🥇 [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
+| 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
 | ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
 | 🔴 🌟 [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `ChenCy Lew` |
 | 🥈 [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
@@ -127,6 +127,7 @@
 
 <div align="center">
 
+<br/>
 <br/>
 
 <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/> 
@@ -180,7 +181,14 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 </tr>
 </table>
 
-### <img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="28" height="28"/> Ink Canvas Artistry
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="56" height="56"/>
+
+###  Ink Canvas Artistry
 
 ![banner](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Screenshot1.png)
 
@@ -198,17 +206,26 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 ![GitHub License](https://img.shields.io/github/license/InkCanvas/Ink-Canvas-Artistry?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20617707731-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/AC777tzmEw)
 
-Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。
+</div>
 
----
+Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
 
 💬 **ChenCy 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ChangSakura/">ChangSakura</a>
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/InkCanvas/Ink-Canvas-Artistry/">InkCanvas/Ink-Canvas-Artistry</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/ChangSakura.png" width="20" height="20"/> <a href="https://github.com/ChangSakura/">ChangSakura</a></td>
+</tr>
+</table>
 
 ### <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
 
