@@ -34,29 +34,36 @@
 
 ## 👂 提醒
 
-1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改。
+1. 若发现任何错误/过时信息，请通过提交 `Issue` 使我知晓。当然，您也可以自行修改后提交 `Pull Request` 。
 
-2. 欢迎添加内容！请创建 `Pull Request` ，按照当前已有格式添加。
+2. 欢迎添加内容！请按照当前已有格式添加。
 
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
 
 4. ⚠️ **不允许直接将二进制分发包包体托管到该仓库内。**
 
-5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。🚫 **严禁推荐，上传至本仓库，在本仓库公开分享 任何软件的破解版，开心版等版本的任何信息，违者将被拉黑。**
+5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。
+
+🚫 **严禁推荐，上传至本仓库，在本仓库公开分享 任何软件的破解版，开心版等版本的任何信息，违者将被拉黑。**
 
 6. 若您开发的软件或项目在该列表上的，需要联系修改内容或移除内容的，请联系仓库维护者 `dubi906w`。
 
-7. **目录中无法导航到对应项目介绍的，要么是我还没写，要么就是超链接出了问题。** 如果是后者，请通过添加 `Issue` 使我知晓。当然，您也可以自行创建 `Pull Request` 修改问题，我会尽快通过。
+7. **目录中无法导航到对应项目介绍的，要么是我还没写，要么就是超链接出了问题。**
 
-8. **请在遵守中华人民共和国相关法律规定和您所在地区的当地法律法规的规定的情况下上传合法内容。** 严禁上传含有色情，暴力，人口贩卖，毒品，政治等敏感内容，违者将被拉黑。
+如果是后者，请通过添加 `Issue` 使我知晓。当然，您也可以自行修改问题后提交 `Pull Request` ，我会尽快审核后合并。
+
+8. **请在遵守中华人民共和国相关法律规定和您所在地区的当地法律法规的规定的情况下上传合法内容。**
+
+*严禁上传含有色情，暴力，人口贩卖，毒品，政治等敏感内容，违者将被拉黑。*
 
 9. **该列表仅供参考，信息可能会更新不及时！**
 
 ## 👋 同类项目推荐
 
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
+
 [![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## 📚 目录
 
@@ -91,7 +98,7 @@
 | 🥇 [ZongziTEK 黑板贴](#-zongzitek-黑板贴) ![Github Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker?label=updated) | <img src="https://github.com/STBBRD.png" width="20" height="20"/> `ZongziTEK` |
 | ~~[ClassTools](#classtools)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools?label=updated) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
 | ~~[StickyHomeworks](#stickyhomeworks)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks?label=updated) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
-| 🌟 [StickyAttention](#-stickyattention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention?label=updated) | <img src="https://github.com/jizilin6732.png" width="20" height="20"/> `jizilin6732` |
+| 🌟 [Sticky-attention](#sticky-attention) ![Github Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention?label=updated) | <img src="https://github.com/jizilin6732.png" width="20" height="20"/> `jizilin6732` |
 | 🔴 🌟 [ExtraIsland](#-extraisland) ![Github Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland?label=updated) | <img src="https://github.com/LiPolymer.png" width="20" height="20"/> `LiPolymer` |
 | [HomeworkBoard](#homeworkboard) ![Github Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard?label=updated) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
 | 🥈 [Class Widgets](#-class-widgets) ![Github Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit-233-shiroko` |
@@ -495,7 +502,7 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 ### StickyHomeworks
 
-> 该项目已经停止更新，因为开发者弃坑了。
+> 该项目已经停止更新，并由 `jizilin6732` 接手。
 
 [![stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat&color=red)](https://github.com/HelloWRC/StickyHomeworks/stargazers)
 [![forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat&color=blue)](https://github.com/HelloWRC/StickyHomeworks/forks)
@@ -515,7 +522,7 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/HelloWRC/">HelloWRC</a>
 
-### <img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="28" height="28"/> StickyAttention
+### <img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="28" height="28"/> Sticky-attention
 
 ![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg)
 
