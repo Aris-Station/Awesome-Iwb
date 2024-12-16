@@ -81,13 +81,13 @@
 | - | - |
 | 🥈 [Ink Canvas](#ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
-| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
 | 🔴 🌟 [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `ChenCy Lew` |
 | 🥈 [智绘教 Inkeys](#-智绘教-inkeys) ![Github Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
-| [Inkways](#-inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| [Inkways Classic](#-inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | 🔴 🌟 [SketchNow](#-sketchnow) ![Github Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
 | 🔴 [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
+| [Inkways](#-inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
+| [Inkways Classic](#-inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
+| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
 
 ### 📊 课表与桌面小工具
 
@@ -208,6 +208,8 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 </div>
 
+> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>.
+
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前暂时停更（可能得等到开发者大一放假了再说）。
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
@@ -227,43 +229,14 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 </tr>
 </table>
 
-### <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
+<div align="center">
 
-> 该项目已经永久停止更新，原因未知。
-
-![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
-
-![GNOME](https://img.shields.io/badge/GNOME-003E92)
-[![stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?style=flat&color=red)](https://github.com/InkCanvas/InkCanvasForClass/stargazers)
-[![forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?style=flat&color=blue)](https://github.com/InkCanvas/InkCanvasForClass/forks)
-[![Watchers](https://img.shields.io/github/watchers/InkCanvas/InkCanvasForClass?style=flat&color=green)](https://github.com/InkCanvas/InkCanvasForClass/watchers)
-[![Downloads](https://img.shields.io/github/downloads/InkCanvas/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/InkCanvas/InkCanvasForClass/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvas/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/InkCanvas/InkCanvasForClass/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvas/InkCanvasForClass?style=flat)](https://github.com/InkCanvas/InkCanvasForClass/discussions)
-[![Created At](https://img.shields.io/github/created-at/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/InkCanvas/InkCanvasForClass)
-![GitHub License](https://img.shields.io/github/license/InkCanvas/InkCanvasForClass?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
-
-Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
-
-InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
-
----
-
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`
-
-💬 **ChenCy 锐评**：新起点，新启航，ICC 挑过了 IC 和 ICA 肩上的重担，负重前行。目前正在重构底层代码中...，逗比欢迎大家尝鲜使用 **（不过逗比不建议在课堂上或者正式教学环境下使用）**
-
-💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a> (已归档)
 <br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a> (账号已注销)
+<br/>
 
-### <img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="28" height="28"/> Ink Canvas Reborn
+<img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="56" height="56"/>
+
+### Ink Canvas Reborn
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
@@ -279,15 +252,29 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 ![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Ink-Canvas-Reborn?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/PDfJCGLqwM)
 
+</div>
+
 Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，ICR 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
 
 💬 **ChenCy 锐评**：继 ICC 之后，又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/dubi906w/">ChenCy Lew</a>
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github 1</b></td>
+    <td><a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github 2</b></td>
+    <td><a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">ChenCy Lew</a></td>
+</tr>
+</table>
 
 ### <img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="28" height="28"/> 智绘教 Inkeys
 
@@ -322,56 +309,6 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">https://www.bilibili.com/video/BV1Tz421z72e/</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
-
-### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
-
-![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
-![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-![Price](https://img.shields.io/badge/Price-Freemium-green)
-![Platforms](https://img.shields.io/badge/win%20%7C%20mac%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
-)<br/>
-[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
-[![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
-
-> [!note]
->
-> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
-
-跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
-
-💬 **ChenCy 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
-
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
-
-### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
-
-![banner](banner/inkways-classic.png)
-
-![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
-![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-![Price](https://img.shields.io/badge/Price-Free-green)
-![Platforms](https://img.shields.io/badge/win-green?label=supports
-)<br/>
-[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
-
-完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
-
----
-
-🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
-
-💬 **ChenCy 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
-
-💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
-
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
 
 ### <img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="28" height="28"/> SketchNow
 
@@ -431,6 +368,92 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/pubpub-zz/ppInk/">pubpub-zz/ppInk</a>
 <br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/pubpub-zz/">pubpub-zz</a>
+
+### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
+
+![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
+![Type](https://img.shields.io/badge/Type-Closed_Source-green)
+![Price](https://img.shields.io/badge/Price-Freemium-green)
+![Platforms](https://img.shields.io/badge/win%20%7C%20mac%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
+[![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+
+> [!note]
+>
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
+
+跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
+
+💬 **ChenCy 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
+
+<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+
+### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
+
+![banner](banner/inkways-classic.png)
+
+![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
+![Type](https://img.shields.io/badge/Type-Closed_Source-green)
+![Price](https://img.shields.io/badge/Price-Free-green)
+![Platforms](https://img.shields.io/badge/win-green?label=supports
+)<br/>
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
+
+完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
+
+---
+
+🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
+
+💬 **ChenCy 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+
+💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
+
+<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+
+### <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
+
+> 该项目已经永久停止更新，原因未知。
+
+![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
+
+![GNOME](https://img.shields.io/badge/GNOME-003E92)
+[![stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?style=flat&color=red)](https://github.com/InkCanvas/InkCanvasForClass/stargazers)
+[![forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?style=flat&color=blue)](https://github.com/InkCanvas/InkCanvasForClass/forks)
+[![Watchers](https://img.shields.io/github/watchers/InkCanvas/InkCanvasForClass?style=flat&color=green)](https://github.com/InkCanvas/InkCanvasForClass/watchers)
+[![Downloads](https://img.shields.io/github/downloads/InkCanvas/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/InkCanvas/InkCanvasForClass/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvas/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/InkCanvas/InkCanvasForClass/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvas/InkCanvasForClass?style=flat)](https://github.com/InkCanvas/InkCanvasForClass/discussions)
+[![Created At](https://img.shields.io/github/created-at/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/InkCanvas/InkCanvasForClass)
+![GitHub License](https://img.shields.io/github/license/InkCanvas/InkCanvasForClass?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
+
+Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
+
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
+
+---
+
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`
+
+💬 **ChenCy 锐评**：新起点，新启航，ICC 挑过了 IC 和 ICA 肩上的重担，负重前行。目前正在重构底层代码中...，逗比欢迎大家尝鲜使用 **（不过逗比不建议在课堂上或者正式教学环境下使用）**
+
+💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o
+
+<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a> (已归档)
+<br/>
+<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a> (账号已注销)
 
 ## 📊 课表与桌面小工具
 
