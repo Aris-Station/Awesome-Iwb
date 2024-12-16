@@ -79,7 +79,7 @@
 
 | 名称 | 开发者 |
 | - | - |
-| 🥈 [Ink Canvas](#-ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
+| 🥈 [Ink Canvas](#ink-canvas) ![Github Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
 | 🥇 [Ink Canvas Artistry](#-ink-canvas-artistry) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
 | ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
 | 🔴 🌟 [Ink Canvas Reborn](#-ink-canvas-reborn) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `ChenCy Lew` |
@@ -125,7 +125,15 @@
 
 ## ✏️ 批注软件
 
-### <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="28" height="28"/> Ink Canvas
+<div align="center">
+
+<br/>
+
+<img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/> 
+
+### Ink Canvas
+
+</div>
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?style=flat&color=red)](https://github.com/WXRIW/Ink-Canvas/stargazers)
