@@ -123,17 +123,6 @@
 | 🔴 [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
 | 🔴 [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool?label=updated) | <img src="https://github.com/lzy98276.png" width="20" height="20"/> `黎泽懿` |
 
-<table>
-<tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
-</tr>
-<tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
-</tr>
-</table>
-
 ## ✏️ 批注软件
 
 ### <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="28" height="28"/> Ink Canvas
@@ -161,6 +150,19 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `形状识别`
 
 💬 **ChenCy 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
+
+<table>
+<tr>
+    <td width="18"><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github 1</b></td>
+    <td><a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a></td>
+</tr>
+<tr>
+    <td width="18"><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github 2</b></td>
+    <td><a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a></td>
+</tr>
+</table>
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>
 <br/>
