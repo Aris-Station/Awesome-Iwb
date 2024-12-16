@@ -123,6 +123,17 @@
 | 🔴 [SeewoHUB](#seewohub) ![Github Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
 | 🔴 [SectionIstool](#-sectionistool) ![Github Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool?label=updated) | <img src="https://github.com/lzy98276.png" width="20" height="20"/> `黎泽懿` |
 
+<table>
+<tr>
+    <td>Key 1</td>
+    <td>Value 1</td>
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+</tr>
+</table>
+
 ## ✏️ 批注软件
 
 ### <img src="https://github.com/WXRIW/Ink-Canvas/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="28" height="28"/> Ink Canvas
