@@ -133,7 +133,7 @@
 
 ### Ink Canvas
 
-</div>
+---
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/WXRIW/Ink-Canvas?style=flat&color=red)](https://github.com/WXRIW/Ink-Canvas/stargazers)
@@ -149,6 +149,10 @@
 ![GitHub License](https://img.shields.io/github/license/WXRIW/Ink-Canvas?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20891913576-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=NvlM1Rgg)
 
+---
+
+</div>
+
 Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升 5-10 倍），系统资源占用更小，使用体验更佳。
 
 学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，等重制版吧）
@@ -159,7 +163,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 💬 **ChenCy 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
 
-<table>
+<table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github 1</b></td>
