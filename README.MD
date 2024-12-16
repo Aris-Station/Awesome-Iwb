@@ -160,7 +160,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github 2</b></td>
-    <td><a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a></td>
+    <td><a href="https://github.com/InkCanvas/Ink-Canvas/">InkCanvas/Ink-Canvas</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -168,12 +168,6 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
     <td><img src="https://github.com/WXRIW.png" width="20" height="20"/> <a href="https://github.com/WXRIW/">WXRIW</a></td>
 </tr>
 </table>
-
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/Ink-Canvas/">InkCanvas/Ink-Canvas</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/WXRIW/">WXRIW</a>
 
 ### <img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="28" height="28"/> Ink Canvas Artistry
 
