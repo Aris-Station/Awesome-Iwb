@@ -949,4 +949,4 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 
 ## 📄 开源协议
 
-![GitHub License](https://img.shields.io/github/license/dubi906w/Awesome-Iwb)
+![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Awesome-Iwb)
