@@ -153,12 +153,12 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 <table>
 <tr>
-    <td width="18"><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github 1</b></td>
     <td><a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a></td>
 </tr>
 <tr>
-    <td width="18"><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github 2</b></td>
     <td><a href="https://github.com/WXRIW/Ink-Canvas/">WXRIW/Ink-Canvas</a></td>
 </tr>
