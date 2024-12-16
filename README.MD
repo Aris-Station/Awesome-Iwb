@@ -564,6 +564,8 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一下小小
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/LiPolymer/ExtraIsland/">LiPolymer/ExtraIsland</a>
 <br/>
+<img src="images/gitlab-icon.svg" width="16" height="16"><b> GitLab 链接</b>: <a href="https://gitlab.com/LiPolymer/ExtraIsland/">LiPolymer/ExtraIsland</a>
+<br/>
 <img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/LiPolymer/">LiPolymer</a>
 
 ### HomeworkBoard
