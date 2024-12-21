@@ -90,7 +90,7 @@
 | 🔴 [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#-inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | ~~`Doubx690i`~~ (已注销) |
+| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | <img src="https://github.com/ghost.png" width="20" height="20"/> ~~`Doubx690i`~~ (已注销) |
 
 ### 📊 课表与桌面小工具
 
@@ -191,7 +191,7 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 <img src="https://github.com/InkCanvas/Ink-Canvas-Artistry/raw/master/Images/Ink%20Canvas%20Artistry.png" width="56" height="56"/>
 
-###  Ink Canvas Artistry
+### Ink Canvas Artistry
 
 ![banner](https://github.com/ChangSakura/Ink-Canvas/raw/master/Images/Screenshot1.png)
 
@@ -217,7 +217,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
 
-💬 **ChenCy 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！（来自 ICC 开发者的认可）。**自从现在 ICC 没有了过后，ICA 也就又变成了 IC 系列中最好用的一个。**
+💬 **ChenCy 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！**自从现在 ICC 没有了过后，ICA 也就又变成了 IC 系列中最好用的一个。**
 
 <table align="center">
 <tr>
@@ -279,11 +279,16 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 </tr>
 </table>
 
-### <img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="28" height="28"/> 智绘教 Inkeys
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/logo.png?raw=true" width="56" height="56"/> 
+
+### 智绘教 Inkeys
 
 ![banner](https://github.com/Alan-CRL/Inkeys/raw/main/GithubRes/cover2.png)
-
-> 原名: `Intelligent-Drawing-Teaching`（IDT），中文: 智绘教
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat&color=red)](https://github.com/Alan-CRL/Inkeys/stargazers)
@@ -299,21 +304,42 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 ![GitHub License](https://img.shields.io/github/license/Alan-CRL/Inkeys?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20618720802-white?style=flat&logo=TencentQQ)](https://qm.qq.com/cgi-bin/qm/qr?k=9V2l83dc0yP4UYeDF-NkTX0o7_TcYqlh&jump_from=webapi&authKey=LsLLUhb1KSzHYbc8k5nCQDqTtRcRUCEE3j+DdR9IgHaF/7JF7LLpY191hsiYEBz6)
 
+</div>
+
+> 原名: `Intelligent-Drawing-Teaching`（IDT），中文: 智绘教
+
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
 
----
-
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `手抖修正`, `多指书写`
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `手抖修正`, `多指书写`, `强制置顶`, `桌面画板悬浮窗拦截`, `批注浮窗拦截`
 
 💬 **ChenCy 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Alan-CRL/Inkeys/">Alan-CRL/Inkeys</a>
-<br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Tz421z72e/">https://www.bilibili.com/video/BV1Tz421z72e/</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/Alan-CRL/">Alan-CRL</a>
+<table align="center">
+<tr>
+    <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
+    <td><b>B站宣传视频</b></td>
+    <td><a href="https://www.bilibili.com/video/BV1Tz421z72e/">BV1Tz421z72e</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/Alan-CRL/Inkeys/">Alan-CRL/Inkeys</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Alan-CRL.png" width="20" height="20"/> <a href="https://github.com/Alan-CRL/">Alan-CRL</a></td>
+</tr>
+</table>
 
-### <img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="28" height="28"/> SketchNow
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="56" height="56"/> 
+
+### SketchNow
 
 ![banner](https://github.com/SketchNow/SketchNow.WPF/raw/main/docs/banner.png)
 
@@ -330,7 +356,9 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SketchNow/SketchNow.WPF)](https://github.com/SketchNow/SketchNow.WPF)
 ![GitHub License](https://img.shields.io/github/license/SketchNow/SketchNow.WPF?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20703302328-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/NhE0ZUNK0O)
-[![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=discord&color=%235865F2)](https://discord.gg/Aub356Dmqs)
+[![Discord](https://img.shields.io/discord/1299211548367261756?logo=discord&logoColor=white&label=&color=%235865F2)](https://discord.gg/Aub356Dmqs)
+
+</div>
 
 SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何位置实时绘制草图。它采用 Material Design 设计，界面优雅，支持压感输入。该应用程序注重隐私，将所有数据保存在本地，仅在版本更新时连接到 GitHub。SketchNow 带来了在屏幕任意位置绘图的自由，同时保持了系统的稳定性和性能。
 
@@ -340,15 +368,29 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 
 > 你们大学生👨‍🎓也是被使唤上了好吧🤓☝️
 
-💬 **ChenCy 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，还没有中文支持，不过前途是一片光明啊。
+🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/SketchNow/SketchNow.WPF/">SketchNow/SketchNow.WPF</a>
+💬 **ChenCy 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，还没有中文支持，不过前途是一片光明啊。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/SketchNow/SketchNow.WPF/">SketchNow/SketchNow.WPF</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/realybin.png" width="20" height="20"/> <a href="https://github.com/realybin/">realybin</a></td>
+</tr>
+</table>
+
+<div align="center">
+
 <br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/realybin/">realybin</a>
+<br/>
 
 ### ppInk
-
-> Forked from [geovens/gInk](https://github.com/geovens/gInk)
 
 ![banner](https://github.com/pubpub-zz/ppInk/raw/master/Animation.gif)
 
@@ -364,15 +406,37 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 [![GitHub Top Language](https://img.shields.io/github/languages/top/pubpub-zz/ppInk)](https://github.com/pubpub-zz/ppInk)
 ![GitHub License](https://img.shields.io/github/license/pubpub-zz/ppInk?color=red)
 
+</div>
+
+> <img src="./images/fork-icon.svg" width="18" height="18"/> forked from [geovens/gInk](https://github.com/geovens/gInk)
+
 ppInk is a user-friendly on-screen annotation software for Windows, compatible with Mouse use, touchscreen or drawing tablet(also with pressure).
 
 源自 gInk 它提供了许多新功能，这些功能自由地从其他应用程序（如 Epic Pen）中汲取灵感，使其更易于使用，功能更强大。ppInk/gInk 的设计秉承了简洁的理念，确保在演示过程中不会分散演示者或观众的注意力。ppInk 允许您选择不同的笔进行绘图，每支笔都有可配置的属性，而不必调整颜色、透明度和笔尖宽度、笔触等单个设置。
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/pubpub-zz/ppInk/">pubpub-zz/ppInk</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/pubpub-zz/">pubpub-zz</a>
+💬 **ChenCy 锐评**：这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。
 
-### <img src="images/inkways-icon.png" width="28" height="28"/> Inkways (WIP)
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/pubpub-zz/ppInk/">pubpub-zz/ppInk</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/pubpub-zz.png" width="20" height="20"/> <a href="https://github.com/pubpub-zz/">pubpub-zz</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="images/inkways-icon.png" width="56" height="56"/> 
+
+### Inkways (WIP)
 
 ![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
 ![Type](https://img.shields.io/badge/Type-Closed_Source-green)
@@ -383,19 +447,37 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
+</div>
+
 > [!note]
 >
 > 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
 
-跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming soon)
+跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming s∞n)
 
 💬 **ChenCy 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+<table align="center">
+<tr>
+    <td><img src="https://assets.inkore.net/logo/iNKORE.ico" width="18" height="18"></td>
+    <td><b>官网 (维护中)</b></td>
+    <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a></td>
+</tr>
+</table>
 
-### <img src="images/inkways-classic-icon.png" width="28" height="28"/> Inkways Classic
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="images/inkways-classic-icon.png" width="56" height="56"/> 
+
+### Inkways Classic
 
 ![banner](banner/inkways-classic.png)
 
@@ -408,9 +490,9 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://t.me/iNKORE)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/VMym9nrlim)
 
-完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
+</div>
 
----
+完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
 
@@ -418,13 +500,27 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
 
-<b>官网链接</b>: <a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a>（维护中）
+<table align="center">
+<tr>
+    <td><img src="https://assets.inkore.net/logo/iNKORE.ico" width="18" height="18"></td>
+    <td><b>官网 (维护中)</b></td>
+    <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a></td>
+</tr>
+</table>
+
+<div align="center">
+
 <br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/iNKORE-NET/">iNKORE Studios</a>
+<br/>
 
-### <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="28" height="28"/> InkCanvasForClass
+<img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="56" height="56"/> 
 
-> 该项目已经永久停止更新，原因未知。
+### InkCanvasForClass
 
 ![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
 
@@ -442,11 +538,13 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 ![GitHub License](https://img.shields.io/github/license/InkCanvas/InkCanvasForClass?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
 
+</div>
+
+> 该项目已经永久停止更新，安息吧，Dubi906w！
+
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
-InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。
-
----
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近由于未知原因，该项目已经停止开发，但 `Awesome-Iwb` 和开发者商沟通后，开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。
 
 🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `ICC`, `边缘手势禁用`, `高性能`, `PPT批注`, `形状识别`
 
@@ -454,9 +552,23 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 
 💬 **Aris 锐评**：随着 IC 和 ICA 的相继停更，ICC 或许扛起了 IC 系列的大旗？Dubi 现在正在积极制作，UI 和功能也值得期待，作为友商 staff 期待蓬勃发展ヾ(≧▽≦*)o
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a> (已归档)
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/kriastans/">Doubx690i</a> (账号已注销)
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github(已归档)</b></td>
+    <td><a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github(v.0610fix)</b></td>
+    <td><a href="https://github.com/Awesome-Iwb/icc-0610fix/">Awesome-Iwb/icc-0610fix</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者(已注销)</b></td>
+    <td><img src="https://github.com/ghost.png" width="20" height="20"/> <a href="https://github.com/kriastans/">Dubi906w</a></td>
+</tr>
+</table>
 
 ## 📊 课表与桌面小工具
 
